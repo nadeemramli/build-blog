@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Building PRD"
-date: "2025-02-01"
-tags: 
+draft: false
+title: Building PRD
+date: 2025-02-01
+tags:
 ---
 **
 

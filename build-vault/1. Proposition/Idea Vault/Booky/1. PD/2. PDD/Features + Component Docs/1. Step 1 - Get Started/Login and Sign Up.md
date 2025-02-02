@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Login and Sign Up"
-date: "2025-02-01"
-tags: 
+draft: false
+title: Login and Sign Up
+date: 2025-02-01
+tags:
 ---
 ![[Pasted image 20250201013636.png]]
 

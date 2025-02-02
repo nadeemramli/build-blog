@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Breakdown of Programming"
-date: "2025-01-31"
-tags: 
+draft: false
+title: Breakdown of Programming
+date: 2025-01-31
+tags:
 ---
 1. Feedback (Outcome)
 	1. Internal:

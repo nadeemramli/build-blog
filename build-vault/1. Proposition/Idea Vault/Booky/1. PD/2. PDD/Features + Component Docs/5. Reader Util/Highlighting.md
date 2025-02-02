@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Highlighting"
-date: "2025-02-01"
-tags: 
+draft: false
+title: Highlighting
+date: 2025-02-01
+tags:
 ---
 When user highlight, this is the option they have.
 

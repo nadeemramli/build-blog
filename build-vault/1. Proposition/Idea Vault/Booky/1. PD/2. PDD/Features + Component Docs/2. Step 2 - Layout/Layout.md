@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Layout"
-date: "2025-02-01"
-tags: 
+draft: false
+title: Layout
+date: 2025-02-01
+tags:
 ---
 ![[Pasted image 20250201035010.png]]![[Pasted image 20250201035203.png]]
 

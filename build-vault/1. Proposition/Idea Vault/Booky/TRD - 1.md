@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "TRD - 1"
-date: "2025-02-01"
-tags: 
+draft: false
+title: TRD - 1
+date: 2025-02-01
+tags:
 ---
 Start of the prompt:
 Push out the PRD markdown, and with this prompt.

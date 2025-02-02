@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "PRD"
-date: "2025-02-01"
-tags: 
+draft: false
+title: PRD
+date: 2025-02-01
+tags:
 ---
 - **Booky**: 
 	- An ideal reading management app. Ideated through synthesizing your [[Pain Request|pain points and desired features]].

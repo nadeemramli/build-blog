@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Separating PRDs"
-date: "2025-02-01"
-tags: 
+draft: false
+title: Separating PRDs
+date: 2025-02-01
+tags:
 ---
 > [!cite] I don't understand, we have PRD, but if we want to build a specific feature we have PRD aswell? Why don't we have like a Startup/Product Development Documentation, then for each feature we have PRD?
 

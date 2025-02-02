@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Building PVP"
-date: "2025-02-02"
-tags: 
+draft: false
+title: Building PVP
+date: 2025-02-02
+tags:
 ---
 a pvp should consist of
 

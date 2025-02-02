@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "React - Next js issue"
-date: "2025-01-31"
-tags: 
+draft: false
+title: React - Next js issue
+date: 2025-01-31
+tags:
 ---
 
 Not exactly - it's more about the sequence of how issues cascade and affect each other. Here's a better way to think about it:

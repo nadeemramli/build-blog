@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "PRD - 3"
-date: "2025-02-02"
-tags: 
+draft: false
+title: PRD - 3
+date: 2025-02-02
+tags:
 ---
 
 ## **7. Phased Rollout**  

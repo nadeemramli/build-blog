@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "PRD - 1 (Diagram)"
-date: "2025-02-02"
-tags: 
+draft: false
+title: PRD - 1 (Diagram)
+date: 2025-02-02
+tags:
 ---
 
 

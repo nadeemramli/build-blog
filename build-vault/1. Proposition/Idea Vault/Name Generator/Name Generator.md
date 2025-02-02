@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Name Generator"
-date: "2025-02-01"
-tags: 
+draft: false
+title: Name Generator
+date: 2025-02-01
+tags:
 ---
 With an extra touch on Agent Operator.
 

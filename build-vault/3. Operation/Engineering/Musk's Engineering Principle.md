@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Musk's Engineering Principle"
-date: "2025-02-02"
-tags: 
+draft: false
+title: Musk's Engineering Principle
+date: 2025-02-02
+tags:
 ---
 Five-step engineering process 
 

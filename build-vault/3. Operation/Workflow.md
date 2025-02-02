@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Workflow
 date: 2025-01-31
 tags:

@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Database Schema"
-date: "2025-02-01"
-tags: 
+draft: false
+title: Database Schema
+date: 2025-02-01
+tags:
 ---
 To build a robust and scalable database schema for your application using Supabase, we need to focus on several key aspects: **normalization**, **relationships**, **indexing**, and **security**. Given that you're using Supabase, which is built on top of PostgreSQL, we can leverage PostgreSQL's powerful features like **Row-Level Security (RLS)**, **JSONB**, **full-text search**, and **triggers**. Below, I'll outline the best practices and suggestions for your database schema, along with the approach to implement it.
 

@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Intro"
-date: "2025-02-01"
-tags: 
+draft: false
+title: Intro
+date: 2025-02-01
+tags:
 ---
 Scaffold on Bolt.new
 
