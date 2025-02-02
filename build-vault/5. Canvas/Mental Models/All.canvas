@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"a46f6f61d5d06fc5","type":"text","text":"Operation","x":-1312,"y":-2480,"width":1720,"height":1802},
+		{"id":"fd37a9218b87574a","type":"text","text":"Operation","x":960,"y":-144,"width":1720,"height":1802},
+		{"id":"efc0648752b4aeda","type":"text","text":"Operation","x":-3440,"y":-144,"width":1720,"height":1802},
+		{"id":"a2e4f0ea7a515bcf","type":"file","file":"Resource/Pasted image 20250131231623.png","x":-240,"y":-1320,"width":400,"height":157},
+		{"id":"a272703fba44d6ec","type":"file","file":"Resource/Pasted image 20250131231805.png","x":1415,"y":-2784,"width":405,"height":304},
+		{"id":"e5a71ca92c8d3dff","type":"file","file":"Resource/Pasted image 20250131232557.png","x":1160,"y":80,"width":400,"height":250},
+		{"id":"b5046b6d9678f764","type":"text","text":"Niche\nLogical Model / Capital","x":-1110,"y":880,"width":1400,"height":880},
+		{"id":"6087e31a174c85ed","type":"file","file":"1. Proposition/Ideation/Category of Ideas.md","x":-960,"y":980,"width":340,"height":340}
+	],
+	"edges":[
+		{"id":"b2a5753917026c05","fromNode":"efc0648752b4aeda","fromSide":"top","toNode":"a46f6f61d5d06fc5","toSide":"left"},
+		{"id":"2ab09a421cb0842f","fromNode":"a46f6f61d5d06fc5","fromSide":"right","toNode":"fd37a9218b87574a","toSide":"top"},
+		{"id":"793934a9ba0219b1","fromNode":"fd37a9218b87574a","fromSide":"left","toNode":"efc0648752b4aeda","toSide":"right"}
+	]
+}
