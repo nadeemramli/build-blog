@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Dealn - Opportunity"
-date: "2025-06-24"
-tags: 
+draft: false
+title: Dealn - Opportunity
+date: 2025-06-24
+tags:
 ---
 # Dealn - Deals shouldn’t feel like paperwork
 ## Dealn combines all the steps needed to close deals and get paid -. all in one fluid motion.

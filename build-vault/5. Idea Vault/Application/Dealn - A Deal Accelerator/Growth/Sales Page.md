@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Sales Page"
-date: "2025-06-19"
-tags: 
+draft: false
+title: Sales Page
+date: 2025-06-19
+tags:
 ---
 
 - ## Create

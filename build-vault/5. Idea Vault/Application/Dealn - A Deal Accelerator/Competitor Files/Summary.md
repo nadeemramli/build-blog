@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Summary"
-date: "2025-06-19"
-tags: 
+draft: false
+title: Summary
+date: 2025-06-19
+tags:
 ---
 Proposify
 qwilr

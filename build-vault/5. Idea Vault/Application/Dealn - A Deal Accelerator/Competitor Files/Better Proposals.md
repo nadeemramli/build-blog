@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Better Proposals"
-date: "2025-06-19"
-tags: 
+draft: false
+title: Better Proposals
+date: 2025-06-19
+tags:
 ---
 ![[Pasted image 20250619063621.png]]![[Pasted image 20250619063633.png]]
 
