@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Easy"
-date: "2025-02-14"
-tags: 
+draft: false
+title: Easy
+date: 2025-02-14
+tags:
 ---
 rm -rf .next/cache &&
 npm cache clean --force &&

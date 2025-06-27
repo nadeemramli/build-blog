@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Random Resources"
-date: "2025-02-04"
-tags: 
+draft: false
+title: Random Resources
+date: 2025-02-04
+tags:
 ---
  
 The rest of your content lives here. You can use **Markdown** here :)

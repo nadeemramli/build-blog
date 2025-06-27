@@ -8,8 +8,8 @@ title: Build Journey
 ### 1. Ideation
 --------
 #### Ideation Technique
-- [[Prompt En]]
-- [[PVP Research Point]]
+- [[Prompting Technique for Ideation]]
+- [[Building a Sound Product Value Proposition (PVP)]]
 
 #### Principles
 - [[Basics of Value]]
@@ -29,8 +29,8 @@ title: Build Journey
 #### Booky
 ##### 1. PD
 ###### 1. PRD
-- [[1. PVP|Product Value Proposition]]
-- [[PRD - 1]]
+- [[5. Idea Vault/Application/Bookie - Unified Reading Experience/1. PD/1. PRD/1. PVP|Product Value Proposition]]
+- [[2. PRD - 1]]
 - [[PRD - 1 (Diagram)]]
 - [[PRD - 2]]
 - [[PRD - 3]]
@@ -52,7 +52,7 @@ title: Build Journey
 
 ### 2. Marketing
 #### Content Marketing
-- [[SEO]]
+- [[2. Distribution/2. Strategical and Tactical/Content Marketing/SEO]]
 
 #### Performance Marketing
 - [[DTC yapping|DTC]]

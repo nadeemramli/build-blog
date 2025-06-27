@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "Auth SOP"
-date: "2025-02-08"
-tags: 
+draft: false
+title: Auth SOP
+date: 2025-02-08
+tags:
 ---
 Latest: 4.2 (Done!)
 
