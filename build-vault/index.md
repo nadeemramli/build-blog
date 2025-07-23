@@ -29,7 +29,7 @@ title: Build Journey
 #### Booky
 ##### 1. PD
 ###### 1. PRD
-- [[5. Idea Vault/Application/Bookie - Unified Reading Experience/1. PD/1. PRD/1. PVP|Product Value Proposition]]
+- [[5. Idea Vault/Application/Active/Bookie - Unified Reading Experience/1. PD/1. PRD/1. PVP|Product Value Proposition]]
 - [[2. PRD - 1]]
 - [[PRD - 1 (Diagram)]]
 - [[PRD - 2]]
