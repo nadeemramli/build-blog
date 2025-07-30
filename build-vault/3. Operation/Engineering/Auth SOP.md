@@ -21,6 +21,13 @@ Auth:
 	2. Forgot Password (explanation, as of now when user try to reset their password, after they input their email, there's nothing happen, despite they will get an email asking for reset password, there must be a message to tell the user to check the email, or that forgot password request is successful)
 	3. Wrong Password / Account have not created etc (a detailed error messages, telling either the email not yet verified, no account with this email, invalid credential for wrong password)
 
-mplementing email verification handling
+Implementing email verification handling
 - Adding password reset functionality
 1. Copywriting for Sign Up : email
+
+
+SPA/Better Flow
+1. Sign Up
+2. Verify Email - Confirm at Email
+3. Re-login with verified email
+4. Need to update email CSS/HTML using Resend for this matter.

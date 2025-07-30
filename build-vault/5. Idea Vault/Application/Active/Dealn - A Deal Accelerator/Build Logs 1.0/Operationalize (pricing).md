@@ -60,22 +60,31 @@ Based on your current tech stack and feature set:
 - Basic CRM functionality
 - No analytics/reports
 - Community support
+- 1 Contributor
 
-### **Plus Tier: $29-49/month** 
+### **Plus Tier: $29/month** 
 
 - 10 active projects
 - Unlimited portals
 - Analytics and reports
 - Workflow automation
 - Email support
+- 5 contributor / $5 dollar more per extra, up to 50 contributor
+- SSO add on
+- 
 
-### **Pro Tier: $99-149/month** 
+### **Pro Tier: $99/month** 
 
 - Unlimited projects
 - Advanced analytics
 - Priority support
 - Custom integrations
 - Advanced workflow features
+
+
+Yearly 
+2 Months Free (save 16%)
+
 
 ### **Enterprise: Custom pricing** 
 

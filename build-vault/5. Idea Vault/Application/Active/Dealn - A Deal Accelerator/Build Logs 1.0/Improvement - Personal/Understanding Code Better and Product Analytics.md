@@ -40,3 +40,13 @@ Programmer Workflows
 
 AI Agents:
 1. Zencoder + Playwright
+
+
+# Document a single file
+node scripts/add-documentation.js src/components/YourComponent.tsx
+
+# Document all files in a directory
+node scripts/add-documentation.js src/components/
+
+# Document all .tsx files in the entire src directory
+node scripts/add-documentation.js src/

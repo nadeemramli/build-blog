@@ -4,8 +4,11 @@ title: "Improvement UI"
 date: "2025-07-23"
 tags: 
 ---
-Sidebar up and down
+Sidebar
 
-column viewing
+Collapse and Expands - Consistency 
+Sidebar Improvement 
 
-sorting
+Navigation font smaller size
+
+![[Pasted image 20250724030227.png]]
