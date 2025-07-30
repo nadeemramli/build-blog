@@ -39,11 +39,8 @@ You've correctly identified the connection between your value chain and the "cri
 For your business, we can adapt this concept:
 
 - **Definition:** The **Business Critical Path** is the sequence of essential, non-skippable activities a customer _must_ complete to receive the core value proposition (e.g., pain relief). Any delay or failure on this path directly jeopardizes the final outcome.
-    
 - **Application to Chiro-1st:** Your existing chain (`Awareness -> Inquiry -> ... -> Sustained Wellness`) _is_ the critical path from a customer's perspective. The power comes from analyzing it with this lens:
-    
     - **Identify Dependencies:** The patient cannot get a "Treatment Plan" _before_ the "First Visit & Assessment." This seems obvious, but mapping these dependencies is crucial for resource allocation.
-        
     - **Find the Bottleneck (Your TOC Constraint):** The step on the critical path with the least capacity or longest cycle time is your system's constraint. Is it the number of "First Visit" slots available per week? The time it takes to get insurance approval for a "Treatment Plan"? The critical path framework makes it clear that improving a non-bottleneck step (e.g., making your website's 'Awareness' content load 0.1 seconds faster) will have zero impact on the overall throughput of patients achieving "Pain Relief" if your constraint is appointment availability.
         
 - **Enrichment:** Ask: "What are the sub-tasks and resources required for each step on this critical path?" For the "First Visit," this includes the chiropractor's time, the room, the check-in staff, the diagnostic equipment, and the payment processing system. A failure in any of these sub-tasks puts the critical path step at risk.
@@ -105,39 +102,23 @@ Mapping these support activities will reveal new areas for metrics that are ofte
 Since Chiro-1st is a service business, a Service Blueprint is arguably one of the most powerful mapping tools you can use. It visualizes the service process from both the customer and business perspectives, explicitly linking them. It perfectly captures your desire for an "internal and external lens" on a single map.
 
 A Service Blueprint has distinct horizontal lanes:
-
 1. **Physical Evidence:** The tangible things the customer sees and interacts with (e.g., the clinic's sign, the website, the treatment room, the bill).
-    
 2. **Customer Actions:** The steps the customer takes (Your existing value chain: Visits website, calls to inquire, arrives for appointment, receives treatment).
-    
 3. **Line of Interaction**
-    
 4. **Frontstage Actions (Onstage):** What the employees do in direct view of the customer (e.g., Receptionist greets patient, Chiropractor performs assessment, Assistant processes payment).
-    
 5. **Line of Visibility**
-    
 6. **Backstage Actions (Offstage):** What employees do behind the scenes to support the frontstage actions (e.g., Sterilizing equipment, updating patient records in the EMR, preparing the treatment room, coordinating with insurance companies).
-    
 7. **Line of Internal Interaction**
-    
 8. **Support Processes:** Internal steps or systems that support the employees (e.g., the EMR software itself, the scheduling system, billing software, staff training programs).
-    
 
 **Why this is valuable for you:**
-
 - It explicitly separates what the customer sees from what they don't, helping you identify potential points of failure "backstage" that will eventually impact the "frontstage" customer experience.
-    
 - It's perfect for creating metrics. Each lane can have its own set of KPIs.
-    
     - **Frontstage Metric:** Patient Wait Time.
-        
     - **Backstage Metric:** Time to Update Patient Record.
-        
     - **Support Process Metric:** System Uptime %.
-        
 - It highlights the "Moments of Truth"—critical frontstage interactions that define the customer's perception of quality.
     
-
 ---
 
 ### Summary: How to Weave Them Together
