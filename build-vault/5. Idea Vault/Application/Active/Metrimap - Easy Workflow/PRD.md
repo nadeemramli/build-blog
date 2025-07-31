@@ -1,8 +1,8 @@
 ---
-draft: true
-title: "PRD"
-date: "2025-07-30"
-tags: 
+draft: false
+title: PRD
+date: 2025-07-30
+tags:
 ---
 # Metrimap
 
