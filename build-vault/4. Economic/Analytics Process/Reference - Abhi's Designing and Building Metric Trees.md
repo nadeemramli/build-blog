@@ -212,4 +212,4 @@ This entire component is designed to fulfill a strategic mission, as you outline
         
 - **Value Demonstration:** This system makes the value of the data team tangible. Their output is not a series of disconnected reports that get lost, but the direct improvement and validation of the company's "map of reality." The progress of turning the map from a collection of hypotheses into a validated causal model _is_ the measure of the data team's success.
 
-Relevant for [[5. Idea Vault/Application/Active/Metrimap - Easy Workflow/PRD|PRD]]
+Relevant for [[Early - PRD|Early - PRD]]
