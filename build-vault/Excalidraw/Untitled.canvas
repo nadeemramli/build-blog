@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"3ae2fd2a4bbfeb7a","x":-5080,"y":-1920,"width":2400,"height":3480,"type":"group","label":"What?"},
+		{"id":"6933bc3f2eb6882b","type":"group","x":-4760,"y":-1480,"width":1760,"height":1000,"label":"Compounding"},
+		{"id":"32c9c1325b3d1120","type":"group","x":-4760,"y":180,"width":1760,"height":868,"label":"Bets"},
+		{"id":"2ac3be33630a40ef","x":-2080,"y":-450,"width":1530,"height":540,"type":"group","label":"Architecture"},
+		{"id":"219f551bfeaa9912","type":"group","x":-860,"y":-335,"width":290,"height":250,"label":"Monetization"},
+		{"id":"b6dbbdc75bdac592","type":"group","x":-1240,"y":-335,"width":290,"height":250,"label":"Distribution"},
+		{"id":"99be1e231e2545c9","type":"group","x":-1650,"y":-335,"width":290,"height":250,"label":"Operation"},
+		{"id":"1605c582ace5ebda","type":"group","x":-2060,"y":-335,"width":290,"height":250,"label":"Creation"},
+		{"id":"fee0b8418c4d4bce","type":"text","text":"### Compounding\nWhat are some of those ventures that compounds?\n\n#### Personal Brand\n1. Content Creation - YouTube - TikTok etc.\n2. PR (Workshop, etc)\n\n#### Digital Assets\n1. Websites (like uxcel)\n2. YouTube (like Picking Nuggets)\n\n#### Digital Products\n1. UI Libraries\n2. Templates and presets (music and video editing)\n3. Educational Courses and Workshops\n4. Software Tools\n5. Playbooks\n6. Automation, Infrastructure and Agentics\n\n#### Agency + Solution\n1. Agency: Collecting testimony, playbooks and nailing down specific problem.\n\n","x":-4740,"y":-1460,"width":760,"height":680},
+		{"id":"9285e6a1926da0e8","type":"text","text":"\n### Bets\n\n#### E-Commerce\n1. Direct E-Commerce\n\n#### Software-as-a-Startup/Service\n1. Bootstrapping / Indie Hacking\n\n\n","x":-4740,"y":200,"width":760,"height":828},
+		{"id":"43ab8aa3ea22ec35","type":"text","text":"","x":-3721,"y":414,"width":250,"height":400},
+		{"id":"2b3e6df7d36d06a6","x":-3640,"y":-1340,"width":280,"height":140,"type":"text","text":""},
+		{"id":"cf4a9cf99af6369a","type":"file","file":"4. Economic/Business Models/Business Model Studies.md","x":2030,"y":960,"width":400,"height":400},
+		{"id":"b42da7f18ac7e886","type":"text","text":"Business Model Architecture\n\n\n","x":2490,"y":970,"width":460,"height":380},
+		{"id":"48ccb0fad2c1b651","type":"file","file":"4. Economic/Business Models/Types of Business Model.md","x":1480,"y":976,"width":400,"height":400},
+		{"id":"cb696f8d8c678252","type":"file","file":"Excalidraw/Business Model Architecture.md","x":880,"y":976,"width":400,"height":400},
+		{"id":"45d5bf15cd07c9b8","type":"text","text":"","x":-2040,"y":-310,"width":250,"height":60},
+		{"id":"24059700a83e6dba","type":"text","text":"","x":-2040,"y":-165,"width":250,"height":60},
+		{"id":"51b78027854d07f7","type":"text","text":"","x":-1630,"y":-310,"width":250,"height":60},
+		{"id":"da8a0c8e18859c2a","type":"text","text":"","x":-1630,"y":-165,"width":250,"height":60},
+		{"id":"f0a41954ef56e0c7","type":"text","text":"","x":-1220,"y":-310,"width":250,"height":60},
+		{"id":"15647b3756160af4","type":"text","text":"","x":-1220,"y":-165,"width":250,"height":60},
+		{"id":"485d15123c6c4fd7","type":"text","text":"","x":-840,"y":-310,"width":250,"height":60},
+		{"id":"b4280ded9cc01106","type":"text","text":"","x":-840,"y":-165,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"6a361475cf9a3914","fromNode":"1605c582ace5ebda","fromSide":"right","toNode":"99be1e231e2545c9","toSide":"left"},
+		{"id":"58156d51b91a8108","fromNode":"99be1e231e2545c9","fromSide":"right","toNode":"b6dbbdc75bdac592","toSide":"left"},
+		{"id":"75a8d3dc608d4ff8","fromNode":"b6dbbdc75bdac592","fromSide":"right","toNode":"219f551bfeaa9912","toSide":"left"},
+		{"id":"40f247bdb902238f","fromNode":"3ae2fd2a4bbfeb7a","fromSide":"right","toNode":"2ac3be33630a40ef","toSide":"left"}
+	]
+}

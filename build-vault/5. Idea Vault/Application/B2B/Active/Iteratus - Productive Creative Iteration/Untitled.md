@@ -1,0 +1,1 @@
+Copymaster - Scaling E-commerce + Agent for Copywriting
