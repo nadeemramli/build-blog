@@ -1,0 +1,47 @@
+filters:
+  and:
+    - file.hasTag("kb-article")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Article
+  cohort:
+    displayName: Cohort
+  pillar:
+    displayName: Pillar
+  primary_peptide:
+    displayName: Primary Peptide
+  published:
+    displayName: Published
+  scrape_status:
+    displayName: Status
+  source_url:
+    displayName: URL
+views:
+  - type: table
+    name: Mirror Queue
+    filters:
+      and:
+        - 'scrape_status != "verified"'
+    order:
+      - file.name
+      - cohort
+      - scrape_status
+      - published
+    sort:
+      - property: scrape_status
+        direction: ASC
+      - property: published
+        direction: ASC
+  - type: table
+    name: All Articles
+    order:
+      - file.name
+      - cohort
+      - pillar
+      - primary_peptide
+      - scrape_status
+      - published
+    sort:
+      - property: published
+        direction: DESC

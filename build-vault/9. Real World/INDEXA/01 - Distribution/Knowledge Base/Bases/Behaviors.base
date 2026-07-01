@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.hasTag("kb-behavior")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Behavior
+  modality:
+    displayName: Modality
+  goals:
+    displayName: Goals
+views:
+  - type: table
+    name: All Behaviors
+    order:
+      - file.name
+      - modality
+      - goals
+    sort:
+      - property: modality
+        direction: ASC

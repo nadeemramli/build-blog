@@ -1,0 +1,2908 @@
+{
+  "timezone": "Asia/Kuala_Lumpur",
+  "defaults": {
+    "mode": "schedule"
+  },
+  "posts": [
+    {
+      "id": "POST-B1-01-IG",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | What is it, really?",
+      "onImageText": "What is it, really?. A 60-second primer, minus the hype. A short chain of amino acids. Your body already makes thousands as signals. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Strip the hype: a research compound is a short chain of amino acids - the same building blocks your body uses to signal between cells. Precise, specific, studied.\n\n-\nResearch & educational use only. Not medical advice.\n\n#aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp",
+      "scheduledFor": "2026-06-05T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-01-ig-01.png",
+        "media/POST-B1-01-ig-02.png",
+        "media/POST-B1-01-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "What is it, really?",
+        "sub": "A 60-second primer, minus the hype.",
+        "slide2": "A short chain of amino acids.",
+        "slide3": "Your body already makes thousands as signals."
+      }
+    },
+    {
+      "id": "POST-B1-01-TT",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | the word everyone's googling, explained",
+      "onImageText": "the word everyone's googling, explained. What a research compound actually is, in 15 seconds. Research & educational use only. Not medical advice.",
+      "caption": "What a research compound actually is, in 15 seconds.",
+      "scheduledFor": "2026-06-05T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-01-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "short chain of amino acids. that's the whole thing. the rest is marketing. Research & educational use only. Not medical advice. #aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "the word everyone's googling, explained",
+        "title": "What a research compound actually is, in 15 seconds."
+      }
+    },
+    {
+      "id": "POST-B1-02-IG",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | Protein vs chain",
+      "onImageText": "Protein vs chain. One is long. One is short. That's the whole trick. Long chains fold into proteins. Short chains stay nimble - they signal. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Same alphabet, different word length. Long amino-acid chains fold into proteins; short ones act as fast, specific signals. Length changes everything.\n\n-\nResearch & educational use only. Not medical advice.\n\n#aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp",
+      "scheduledFor": "2026-06-05T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-02-ig-01.png",
+        "media/POST-B1-02-ig-02.png",
+        "media/POST-B1-02-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Protein vs chain",
+        "sub": "One is long. One is short. That's the whole trick.",
+        "slide2": "Long chains fold into proteins.",
+        "slide3": "Short chains stay nimble - they signal."
+      }
+    },
+    {
+      "id": "POST-B1-02-TT",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | protein vs the short stuff",
+      "onImageText": "protein vs the short stuff. Protein vs a short amino-acid chain - the real difference. Research & educational use only. Not medical advice.",
+      "caption": "Protein vs a short amino-acid chain - the real difference.",
+      "scheduledFor": "2026-06-05T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-02-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "long chain = protein. short chain = signal. you're welcome. Research & educational use only. Not medical advice. #aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "protein vs the short stuff",
+        "title": "Protein vs a short amino-acid chain - the real difference."
+      }
+    },
+    {
+      "id": "POST-B1-03-IG",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | 'Research grade' = ?",
+      "onImageText": "'Research grade' = ?. A claim, not a guarantee.  Only a third-party COA makes it real. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "'Research grade' is marketing until a third-party report backs it. Ask for the COA, check the batch, then believe the label.\n\n-\nResearch & educational use only. Not medical advice.\n\n#aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp",
+      "scheduledFor": "2026-06-06T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-03-ig-01.png",
+        "media/POST-B1-03-ig-02.png",
+        "media/POST-B1-03-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "'Research grade' = ?",
+        "sub": "A claim, not a guarantee.",
+        "slide2": "",
+        "slide3": "Only a third-party COA makes it real."
+      }
+    },
+    {
+      "id": "POST-B1-03-TT",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | 'research grade' means nothing without this",
+      "onImageText": "'research grade' means nothing without this. Why 'research grade' is a claim, not proof. Research & educational use only. Not medical advice.",
+      "caption": "Why 'research grade' is a claim, not proof.",
+      "scheduledFor": "2026-06-06T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-03-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "anyone can print 'research grade'. the COA is what makes it true. Research & educational use only. Not medical advice. #aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "'research grade' means nothing without this",
+        "title": "Why 'research grade' is a claim, not proof."
+      }
+    },
+    {
+      "id": "POST-B1-04-IG",
+      "pillar": "Education",
+      "compound": "COA",
+      "note": "Education | Read a COA in 60s",
+      "onImageText": "Read a COA in 60s. Three numbers that decide everything. Identity, purity %, and the batch. If those don't match the label, walk. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "A COA isn't scary. Find three things: identity (is it what they say), purity % (how clean), and the batch number (does it match your label). Mismatch = walk away.\n\n-\nResearch & educational use only. Not medical advice.\n\n#aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp #coa",
+      "scheduledFor": "2026-06-06T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-04-ig-01.png",
+        "media/POST-B1-04-ig-02.png",
+        "media/POST-B1-04-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Read a COA in 60s",
+        "sub": "Three numbers that decide everything.",
+        "slide2": "Identity, purity %, and the batch.",
+        "slide3": "If those don't match the label, walk."
+      }
+    },
+    {
+      "id": "POST-B1-04-TT",
+      "pillar": "Education",
+      "compound": "COA",
+      "note": "Education | how to read a COA before you buy",
+      "onImageText": "how to read a COA before you buy. Read a COA in 60 seconds: identity, purity, batch. Research & educational use only. Not medical advice.",
+      "caption": "Read a COA in 60 seconds: identity, purity, batch.",
+      "scheduledFor": "2026-06-06T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-04-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "identity, purity %, batch number. match all three or don't buy. simple. Research & educational use only. Not medical advice. #aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp #coa"
+      },
+      "_tt": {
+        "hook": "how to read a COA before you buy",
+        "title": "Read a COA in 60 seconds: identity, purity, batch."
+      }
+    },
+    {
+      "id": "POST-B1-05-IG",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | In-house ≠ proof",
+      "onImageText": "In-house ≠ proof. Who tested it matters more than that it was tested. 'We tested it' isn't third-party. Independence is the whole point. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "A seller grading their own homework isn't proof. Third-party means a lab with no stake in the sale signed off. That independence is the entire value.\n\n-\nResearch & educational use only. Not medical advice.\n\n#aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp",
+      "scheduledFor": "2026-06-07T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-05-ig-01.png",
+        "media/POST-B1-05-ig-02.png",
+        "media/POST-B1-05-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "In-house ≠ proof",
+        "sub": "Who tested it matters more than that it was tested.",
+        "slide2": "'We tested it' isn't third-party.",
+        "slide3": "Independence is the whole point."
+      }
+    },
+    {
+      "id": "POST-B1-05-TT",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | 'we tested it ourselves' = red flag",
+      "onImageText": "'we tested it ourselves' = red flag. Why in-house testing isn't the same as proof. Research & educational use only. Not medical advice.",
+      "caption": "Why in-house testing isn't the same as proof.",
+      "scheduledFor": "2026-06-07T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-05-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "a seller testing their own product isn't a flex. third-party or it didn't happen. Research & educational use only. Not medical advice. #aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "'we tested it ourselves' = red flag",
+        "title": "Why in-house testing isn't the same as proof."
+      }
+    },
+    {
+      "id": "POST-B1-06-IG",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | Keep it stable",
+      "onImageText": "Keep it stable. Freeze-dried today, ruined by Friday? Cold, dark, dry - and consistent. Heat and light are the enemies. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Freeze-dried compounds are stable - until heat and light get involved. Cold, dark, dry, and steady beats a fridge door that opens 40 times a day.\n\n-\nResearch & educational use only. Not medical advice.\n\n#aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp",
+      "scheduledFor": "2026-06-07T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-06-ig-01.png",
+        "media/POST-B1-06-ig-02.png",
+        "media/POST-B1-06-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Keep it stable",
+        "sub": "Freeze-dried today, ruined by Friday?",
+        "slide2": "Cold, dark, dry - and consistent.",
+        "slide3": "Heat and light are the enemies."
+      }
+    },
+    {
+      "id": "POST-B1-06-TT",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | you're storing it wrong",
+      "onImageText": "you're storing it wrong. How to keep freeze-dried compounds stable. Research & educational use only. Not medical advice.",
+      "caption": "How to keep freeze-dried compounds stable.",
+      "scheduledFor": "2026-06-07T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-06-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "cold. dark. dry. stop leaving it on the counter. that's the post. Research & educational use only. Not medical advice. #aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "you're storing it wrong",
+        "title": "How to keep freeze-dried compounds stable."
+      }
+    },
+    {
+      "id": "POST-B1-07-IG",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | Half-life, simply",
+      "onImageText": "Half-life, simply. Why timing isn't random. Half gone, then half again. Short half-life = it clears fast. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Half-life is just how long until half is gone, then half again. Short half-life clears fast; long one lingers. It's why research timing is never random.\n\n-\nResearch & educational use only. Not medical advice.\n\n#aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp",
+      "scheduledFor": "2026-06-08T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-07-ig-01.png",
+        "media/POST-B1-07-ig-02.png",
+        "media/POST-B1-07-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Half-life, simply",
+        "sub": "Why timing isn't random.",
+        "slide2": "Half gone, then half again.",
+        "slide3": "Short half-life = it clears fast."
+      }
+    },
+    {
+      "id": "POST-B1-07-TT",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | half-life in one drawing",
+      "onImageText": "half-life in one drawing. Half-life explained without the chemistry degree. Research & educational use only. Not medical advice.",
+      "caption": "Half-life explained without the chemistry degree.",
+      "scheduledFor": "2026-06-08T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-07-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "half gone, then half of that. that's all half-life means. Research & educational use only. Not medical advice. #aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "half-life in one drawing",
+        "title": "Half-life explained without the chemistry degree."
+      }
+    },
+    {
+      "id": "POST-B1-08-IG",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | What 'lyophilized' means",
+      "onImageText": "What 'lyophilized' means. Fancy word, simple idea. Freeze-dried into a stable powder. Water removed = longer shelf life. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Lyophilized just means freeze-dried: water pulled out so the powder stays stable on a shelf. Big word, simple idea, real reason it matters.\n\n-\nResearch & educational use only. Not medical advice.\n\n#aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp",
+      "scheduledFor": "2026-06-08T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-08-ig-01.png",
+        "media/POST-B1-08-ig-02.png",
+        "media/POST-B1-08-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "What 'lyophilized' means",
+        "sub": "Fancy word, simple idea.",
+        "slide2": "Freeze-dried into a stable powder.",
+        "slide3": "Water removed = longer shelf life."
+      }
+    },
+    {
+      "id": "POST-B1-08-TT",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | the word on the label you can't pronounce",
+      "onImageText": "the word on the label you can't pronounce. 'Lyophilized' = freeze-dried. That's it. Research & educational use only. Not medical advice.",
+      "caption": "'Lyophilized' = freeze-dried. That's it.",
+      "scheduledFor": "2026-06-08T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-08-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "lyophilized = freeze-dried. they just wanted it to sound expensive. Research & educational use only. Not medical advice. #aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "the word on the label you can't pronounce",
+        "title": "'Lyophilized' = freeze-dried. That's it."
+      }
+    },
+    {
+      "id": "POST-B1-09-IG",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | Carrier basics",
+      "onImageText": "Carrier basics. What the liquid actually does. It dissolves the powder, nothing more. Sterile and matched to the compound. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "The carrier liquid's only job is to dissolve the powder cleanly and stay sterile. It's plumbing, not magic - but getting it wrong ruins everything.\n\n-\nResearch & educational use only. Not medical advice.\n\n#aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp",
+      "scheduledFor": "2026-06-09T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-09-ig-01.png",
+        "media/POST-B1-09-ig-02.png",
+        "media/POST-B1-09-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Carrier basics",
+        "sub": "What the liquid actually does.",
+        "slide2": "It dissolves the powder, nothing more.",
+        "slide3": "Sterile and matched to the compound."
+      }
+    },
+    {
+      "id": "POST-B1-09-TT",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | the liquid nobody explains",
+      "onImageText": "the liquid nobody explains. What the carrier solution actually does. Research & educational use only. Not medical advice.",
+      "caption": "What the carrier solution actually does.",
+      "scheduledFor": "2026-06-09T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-09-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "it dissolves the powder and stays sterile. that's the whole job. Research & educational use only. Not medical advice. #aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "the liquid nobody explains",
+        "title": "What the carrier solution actually does."
+      }
+    },
+    {
+      "id": "POST-B1-10-IG",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | Batch numbers",
+      "onImageText": "Batch numbers. The most ignored line on the label. It ties your box to its report. No batch, no proof. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "The batch number is the thread between your box and its test report. No batch, no way to verify - just a sticker and a promise.\n\n-\nResearch & educational use only. Not medical advice.\n\n#aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp",
+      "scheduledFor": "2026-06-09T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-10-ig-01.png",
+        "media/POST-B1-10-ig-02.png",
+        "media/POST-B1-10-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Batch numbers",
+        "sub": "The most ignored line on the label.",
+        "slide2": "It ties your box to its report.",
+        "slide3": "No batch, no proof."
+      }
+    },
+    {
+      "id": "POST-B1-10-TT",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | the number you keep ignoring",
+      "onImageText": "the number you keep ignoring. Why the batch number is the most important line. Research & educational use only. Not medical advice.",
+      "caption": "Why the batch number is the most important line.",
+      "scheduledFor": "2026-06-09T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-10-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "the batch number links your box to its COA. no batch = no proof. Research & educational use only. Not medical advice. #aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "the number you keep ignoring",
+        "title": "Why the batch number is the most important line."
+      }
+    },
+    {
+      "id": "POST-B1-11-IG",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | Purity %, decoded",
+      "onImageText": "Purity %, decoded. What HPLC actually measures. How much is the thing vs not-the-thing. Higher % = fewer surprises. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Purity % from HPLC answers one question: how much of this is actually the compound vs everything else. Higher means fewer unknowns in the box.\n\n-\nResearch & educational use only. Not medical advice.\n\n#aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp",
+      "scheduledFor": "2026-06-10T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-11-ig-01.png",
+        "media/POST-B1-11-ig-02.png",
+        "media/POST-B1-11-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Purity %, decoded",
+        "sub": "What HPLC actually measures.",
+        "slide2": "How much is the thing vs not-the-thing.",
+        "slide3": "Higher % = fewer surprises."
+      }
+    },
+    {
+      "id": "POST-B1-11-TT",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | what 99% purity actually means",
+      "onImageText": "what 99% purity actually means. Purity % and HPLC, in plain English. Research & educational use only. Not medical advice.",
+      "caption": "Purity % and HPLC, in plain English.",
+      "scheduledFor": "2026-06-10T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-11-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "purity % = how much is the real thing vs junk. HPLC is how they measure it. Research & educational use only. Not medical advice. #aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "what 99% purity actually means",
+        "title": "Purity % and HPLC, in plain English."
+      }
+    },
+    {
+      "id": "POST-B1-12-IG",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | Labels can lie",
+      "onImageText": "Labels can lie. The box is a claim. The report is evidence. Trust the report, not the print. Verify the batch, every time. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "A label is a marketing claim; a third-party report is evidence. The gap between them is exactly where bad product hides. Verify the batch, every time.\n\n-\nResearch & educational use only. Not medical advice.\n\n#aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp",
+      "scheduledFor": "2026-06-10T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-12-ig-01.png",
+        "media/POST-B1-12-ig-02.png",
+        "media/POST-B1-12-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Labels can lie",
+        "sub": "The box is a claim. The report is evidence.",
+        "slide2": "Trust the report, not the print.",
+        "slide3": "Verify the batch, every time."
+      }
+    },
+    {
+      "id": "POST-B1-12-TT",
+      "pillar": "Education",
+      "compound": "",
+      "note": "Education | the label is lying to you (maybe)",
+      "onImageText": "the label is lying to you (maybe). Why you verify the batch, not the box. Research & educational use only. Not medical advice.",
+      "caption": "Why you verify the batch, not the box.",
+      "scheduledFor": "2026-06-10T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-12-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "the box says whatever they want. the COA says what's real. check the second one. Research & educational use only. Not medical advice. #aminoacids #researchcompounds #biochemistry #COA #labtested #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "the label is lying to you (maybe)",
+        "title": "Why you verify the batch, not the box."
+      }
+    },
+    {
+      "id": "POST-B1-13-IG",
+      "pillar": "Mechanism",
+      "compound": "",
+      "note": "Mechanism | How GLP-1 works",
+      "onImageText": "How GLP-1 works. The body-composition signal, explained. It slows gut emptying + signals fullness. That's the mechanism behind the hype. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "The GLP-1 pathway slows how fast the gut empties and signals fullness to the brain. That's the mechanism researchers study - no magic, just signaling.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp",
+      "scheduledFor": "2026-06-11T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-13-ig-01.png",
+        "media/POST-B1-13-ig-02.png",
+        "media/POST-B1-13-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "How GLP-1 works",
+        "sub": "The body-composition signal, explained.",
+        "slide2": "It slows gut emptying + signals fullness.",
+        "slide3": "That's the mechanism behind the hype."
+      }
+    },
+    {
+      "id": "POST-B1-13-TT",
+      "pillar": "Mechanism",
+      "compound": "",
+      "note": "Mechanism | the pathway behind every 'before/after'",
+      "onImageText": "the pathway behind every 'before/after'. How the GLP-1 pathway actually works. Research & educational use only. Not medical advice.",
+      "caption": "How the GLP-1 pathway actually works.",
+      "scheduledFor": "2026-06-11T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-13-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "slows the gut, signals fullness. that's the mechanism. the rest is content. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "the pathway behind every 'before/after'",
+        "title": "How the GLP-1 pathway actually works."
+      }
+    },
+    {
+      "id": "POST-B1-14-IG",
+      "pillar": "Mechanism",
+      "compound": "",
+      "note": "Mechanism | The GH axis",
+      "onImageText": "The GH axis. How secretagogues nudge GH. They tell the pituitary to pulse. Work with the body's own rhythm. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "GH secretagogues don't add anything external - they signal the pituitary to release its own, in pulses, on the body's clock. Subtle, not brute force.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp",
+      "scheduledFor": "2026-06-11T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-14-ig-01.png",
+        "media/POST-B1-14-ig-02.png",
+        "media/POST-B1-14-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "The GH axis",
+        "sub": "How secretagogues nudge GH.",
+        "slide2": "They tell the pituitary to pulse.",
+        "slide3": "Work with the body's own rhythm."
+      }
+    },
+    {
+      "id": "POST-B1-14-TT",
+      "pillar": "Mechanism",
+      "compound": "",
+      "note": "Mechanism | how the GH switch actually flips",
+      "onImageText": "how the GH switch actually flips. The GH axis: secretagogues, explained simply. Research & educational use only. Not medical advice.",
+      "caption": "The GH axis: secretagogues, explained simply.",
+      "scheduledFor": "2026-06-11T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-14-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "they nudge your pituitary to pulse its own GH. it's a signal, not a shortcut. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "how the GH switch actually flips",
+        "title": "The GH axis: secretagogues, explained simply."
+      }
+    },
+    {
+      "id": "POST-B1-15-IG",
+      "pillar": "Mechanism",
+      "compound": "BPC-157",
+      "note": "Mechanism | BPC-157 & blood vessels",
+      "onImageText": "BPC-157 & blood vessels. The angiogenesis story. Studied for new blood-vessel formation. Blood flow = the recovery thread. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Much of the BPC-157 research centers on angiogenesis - the formation of new blood vessels. Better local blood flow is the thread running through the recovery studies.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #bpc157",
+      "scheduledFor": "2026-06-12T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-15-ig-01.png",
+        "media/POST-B1-15-ig-02.png",
+        "media/POST-B1-15-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "BPC-157 & blood vessels",
+        "sub": "The angiogenesis story.",
+        "slide2": "Studied for new blood-vessel formation.",
+        "slide3": "Blood flow = the recovery thread."
+      }
+    },
+    {
+      "id": "POST-B1-15-TT",
+      "pillar": "Mechanism",
+      "compound": "BPC-157",
+      "note": "Mechanism | why BPC-157 is everywhere right now",
+      "onImageText": "why BPC-157 is everywhere right now. BPC-157 and the blood-vessel research, explained. Research & educational use only. Not medical advice.",
+      "caption": "BPC-157 and the blood-vessel research, explained.",
+      "scheduledFor": "2026-06-12T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-15-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "the research thread is angiogenesis - new blood vessels. that's the mechanism story. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #bpc157"
+      },
+      "_tt": {
+        "hook": "why BPC-157 is everywhere right now",
+        "title": "BPC-157 and the blood-vessel research, explained."
+      }
+    },
+    {
+      "id": "POST-B1-16-IG",
+      "pillar": "Mechanism",
+      "compound": "TB-500",
+      "note": "Mechanism | TB-500 & cell migration",
+      "onImageText": "TB-500 & cell migration. Thymosin beta-4, simplified. Studied for moving cells where needed. Migration shows up in repair research. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "TB-500 (a thymosin beta-4 fragment) is studied for cell migration - helping cells get where repair is happening. That movement is central to the literature.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #tb500",
+      "scheduledFor": "2026-06-12T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-16-ig-01.png",
+        "media/POST-B1-16-ig-02.png",
+        "media/POST-B1-16-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "TB-500 & cell migration",
+        "sub": "Thymosin beta-4, simplified.",
+        "slide2": "Studied for moving cells where needed.",
+        "slide3": "Migration shows up in repair research."
+      }
+    },
+    {
+      "id": "POST-B1-16-TT",
+      "pillar": "Mechanism",
+      "compound": "TB-500",
+      "note": "Mechanism | the 'movement' research compound",
+      "onImageText": "the 'movement' research compound. TB-500 and cell migration, in plain English. Research & educational use only. Not medical advice.",
+      "caption": "TB-500 and cell migration, in plain English.",
+      "scheduledFor": "2026-06-12T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-16-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "research focus: helping cells migrate to where repair happens. that's the angle. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #tb500"
+      },
+      "_tt": {
+        "hook": "the 'movement' research compound",
+        "title": "TB-500 and cell migration, in plain English."
+      }
+    },
+    {
+      "id": "POST-B1-17-IG",
+      "pillar": "Mechanism",
+      "compound": "GHK-Cu",
+      "note": "Mechanism | GHK-Cu & skin",
+      "onImageText": "GHK-Cu & skin. Copper, collagen, and remodeling. A copper-binding signal. Studied for skin-matrix remodeling. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "GHK-Cu is a copper-binding signal studied for remodeling the skin's matrix - the collagen-and-repair conversation. It's why copper shows up in serious skincare research.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #ghkcu",
+      "scheduledFor": "2026-06-13T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-17-ig-01.png",
+        "media/POST-B1-17-ig-02.png",
+        "media/POST-B1-17-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "GHK-Cu & skin",
+        "sub": "Copper, collagen, and remodeling.",
+        "slide2": "A copper-binding signal.",
+        "slide3": "Studied for skin-matrix remodeling."
+      }
+    },
+    {
+      "id": "POST-B1-17-TT",
+      "pillar": "Mechanism",
+      "compound": "GHK-Cu",
+      "note": "Mechanism | the copper one your serum brags about",
+      "onImageText": "the copper one your serum brags about. GHK-Cu: copper signals and skin research. Research & educational use only. Not medical advice.",
+      "caption": "GHK-Cu: copper signals and skin research.",
+      "scheduledFor": "2026-06-13T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-17-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "copper-binding signal, studied for skin remodeling. that's why it's in everything. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #ghkcu"
+      },
+      "_tt": {
+        "hook": "the copper one your serum brags about",
+        "title": "GHK-Cu: copper signals and skin research."
+      }
+    },
+    {
+      "id": "POST-B1-18-IG",
+      "pillar": "Mechanism",
+      "compound": "MOTS-C",
+      "note": "Mechanism | MOTS-C: tiny signal",
+      "onImageText": "MOTS-C: tiny signal. A mitochondria-derived messenger. Encoded in mitochondrial DNA. Studied around metabolism + stress. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "MOTS-C is a small signal encoded in mitochondrial DNA - your cells' power plants talking back. The research clusters around metabolism and cellular stress.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #motsc",
+      "scheduledFor": "2026-06-13T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-18-ig-01.png",
+        "media/POST-B1-18-ig-02.png",
+        "media/POST-B1-18-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "MOTS-C: tiny signal",
+        "sub": "A mitochondria-derived messenger.",
+        "slide2": "Encoded in mitochondrial DNA.",
+        "slide3": "Studied around metabolism + stress."
+      }
+    },
+    {
+      "id": "POST-B1-18-TT",
+      "pillar": "Mechanism",
+      "compound": "MOTS-C",
+      "note": "Mechanism | your mitochondria have a group chat",
+      "onImageText": "your mitochondria have a group chat. MOTS-C, the mitochondria-derived signal. Research & educational use only. Not medical advice.",
+      "caption": "MOTS-C, the mitochondria-derived signal.",
+      "scheduledFor": "2026-06-13T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-18-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "it's a message from your mitochondria. research clusters on metabolism + stress. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #motsc"
+      },
+      "_tt": {
+        "hook": "your mitochondria have a group chat",
+        "title": "MOTS-C, the mitochondria-derived signal."
+      }
+    },
+    {
+      "id": "POST-B1-19-IG",
+      "pillar": "Mechanism",
+      "compound": "SS-31",
+      "note": "Mechanism | SS-31 & cardiolipin",
+      "onImageText": "SS-31 & cardiolipin. The mitochondrial-membrane angle. Targets cardiolipin in the membrane. Studied for mitochondrial efficiency. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "SS-31 (elamipretide) is studied for binding cardiolipin in the mitochondrial membrane - the lipid that keeps the powerhouse efficient. Niche, but fascinating.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #ss31",
+      "scheduledFor": "2026-06-14T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-19-ig-01.png",
+        "media/POST-B1-19-ig-02.png",
+        "media/POST-B1-19-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "SS-31 & cardiolipin",
+        "sub": "The mitochondrial-membrane angle.",
+        "slide2": "Targets cardiolipin in the membrane.",
+        "slide3": "Studied for mitochondrial efficiency."
+      }
+    },
+    {
+      "id": "POST-B1-19-TT",
+      "pillar": "Mechanism",
+      "compound": "SS-31",
+      "note": "Mechanism | the mitochondria membrane compound",
+      "onImageText": "the mitochondria membrane compound. SS-31 and cardiolipin, explained simply. Research & educational use only. Not medical advice.",
+      "caption": "SS-31 and cardiolipin, explained simply.",
+      "scheduledFor": "2026-06-14T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-19-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "it targets cardiolipin in the mitochondrial membrane. efficiency is the research story. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #ss31"
+      },
+      "_tt": {
+        "hook": "the mitochondria membrane compound",
+        "title": "SS-31 and cardiolipin, explained simply."
+      }
+    },
+    {
+      "id": "POST-B1-20-IG",
+      "pillar": "Mechanism",
+      "compound": "Epitalon",
+      "note": "Mechanism | Epitalon & telomeres",
+      "onImageText": "Epitalon & telomeres. The telomerase question. Studied around telomerase activity. Longevity research's favorite riddle. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Epitalon shows up in research around telomerase - the enzyme tied to telomere length. It's longevity science's open question, not a settled answer.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #epitalon",
+      "scheduledFor": "2026-06-14T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-20-ig-01.png",
+        "media/POST-B1-20-ig-02.png",
+        "media/POST-B1-20-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Epitalon & telomeres",
+        "sub": "The telomerase question.",
+        "slide2": "Studied around telomerase activity.",
+        "slide3": "Longevity research's favorite riddle."
+      }
+    },
+    {
+      "id": "POST-B1-20-TT",
+      "pillar": "Mechanism",
+      "compound": "Epitalon",
+      "note": "Mechanism | the 'telomere' one everyone misquotes",
+      "onImageText": "the 'telomere' one everyone misquotes. Epitalon and the telomerase research, honestly. Research & educational use only. Not medical advice.",
+      "caption": "Epitalon and the telomerase research, honestly.",
+      "scheduledFor": "2026-06-14T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-20-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "studied around telomerase activity. it's an open question, not a promise. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #epitalon"
+      },
+      "_tt": {
+        "hook": "the 'telomere' one everyone misquotes",
+        "title": "Epitalon and the telomerase research, honestly."
+      }
+    },
+    {
+      "id": "POST-B1-21-IG",
+      "pillar": "Mechanism",
+      "compound": "CJC-1295",
+      "note": "Mechanism | Why they're paired",
+      "onImageText": "Why they're paired. CJC-1295 + Ipamorelin, explained. One sets the tone, one times the pulse. Together they mimic a natural rhythm. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "CJC-1295 and Ipamorelin get paired in research because one shapes the baseline and the other times the pulse - together approximating a natural GH rhythm.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #cjc1295",
+      "scheduledFor": "2026-06-15T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-21-ig-01.png",
+        "media/POST-B1-21-ig-02.png",
+        "media/POST-B1-21-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Why they're paired",
+        "sub": "CJC-1295 + Ipamorelin, explained.",
+        "slide2": "One sets the tone, one times the pulse.",
+        "slide3": "Together they mimic a natural rhythm."
+      }
+    },
+    {
+      "id": "POST-B1-21-TT",
+      "pillar": "Mechanism",
+      "compound": "CJC-1295",
+      "note": "Mechanism | why these two are always together",
+      "onImageText": "why these two are always together. CJC-1295 + Ipamorelin: why the pairing. Research & educational use only. Not medical advice.",
+      "caption": "CJC-1295 + Ipamorelin: why the pairing.",
+      "scheduledFor": "2026-06-15T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-21-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "one sets the baseline, one times the pulse. paired, they mimic a natural rhythm. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #cjc1295"
+      },
+      "_tt": {
+        "hook": "why these two are always together",
+        "title": "CJC-1295 + Ipamorelin: why the pairing."
+      }
+    },
+    {
+      "id": "POST-B1-22-IG",
+      "pillar": "Mechanism",
+      "compound": "PT-141",
+      "note": "Mechanism | PT-141 pathways",
+      "onImageText": "PT-141 pathways. Melanocortin signaling, simply. Acts on melanocortin receptors. A brain-side signal, not a vascular one. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "PT-141 (bremelanotide) works on melanocortin receptors - a central nervous-system pathway, distinct from the vascular route most people assume. Different mechanism entirely.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #pt141",
+      "scheduledFor": "2026-06-15T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-22-ig-01.png",
+        "media/POST-B1-22-ig-02.png",
+        "media/POST-B1-22-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "PT-141 pathways",
+        "sub": "Melanocortin signaling, simply.",
+        "slide2": "Acts on melanocortin receptors.",
+        "slide3": "A brain-side signal, not a vascular one."
+      }
+    },
+    {
+      "id": "POST-B1-22-TT",
+      "pillar": "Mechanism",
+      "compound": "PT-141",
+      "note": "Mechanism | the one that works in the brain",
+      "onImageText": "the one that works in the brain. PT-141 and melanocortin signaling, explained. Research & educational use only. Not medical advice.",
+      "caption": "PT-141 and melanocortin signaling, explained.",
+      "scheduledFor": "2026-06-15T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-22-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "central melanocortin pathway, not vascular. that's the mechanism difference. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #mechanism #cellbiology #sciencetok #fyp #pt141"
+      },
+      "_tt": {
+        "hook": "the one that works in the brain",
+        "title": "PT-141 and melanocortin signaling, explained."
+      }
+    },
+    {
+      "id": "POST-B1-23-IG",
+      "pillar": "Comparison",
+      "compound": "",
+      "note": "Comparison | 4 GH compounds",
+      "onImageText": "4 GH compounds. Ipamorelin vs Sermorelin vs CJC-1295 vs Tesamorelin. Different half-lives, different jobs. Match the tool to the research question. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Four GH-axis compounds, four personalities: differences in half-life, selectivity and what the literature targets. There's no 'best' - only best-for-the-question.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp",
+      "scheduledFor": "2026-06-16T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-23-ig-01.png",
+        "media/POST-B1-23-ig-02.png",
+        "media/POST-B1-23-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "4 GH compounds",
+        "sub": "Ipamorelin vs Sermorelin vs CJC-1295 vs Tesamorelin.",
+        "slide2": "Different half-lives, different jobs.",
+        "slide3": "Match the tool to the research question."
+      }
+    },
+    {
+      "id": "POST-B1-23-TT",
+      "pillar": "Comparison",
+      "compound": "",
+      "note": "Comparison | GH compounds, ranked by what they do",
+      "onImageText": "GH compounds, ranked by what they do. Ipamorelin vs Sermorelin vs CJC vs Tesamorelin. Research & educational use only. Not medical advice.",
+      "caption": "Ipamorelin vs Sermorelin vs CJC vs Tesamorelin.",
+      "scheduledFor": "2026-06-16T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-23-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "different half-lives, different research jobs. there's no 'best', only best-for-what. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "GH compounds, ranked by what they do",
+        "title": "Ipamorelin vs Sermorelin vs CJC vs Tesamorelin."
+      }
+    },
+    {
+      "id": "POST-B1-24-IG",
+      "pillar": "Comparison",
+      "compound": "",
+      "note": "Comparison | BPC-157 vs TB-500",
+      "onImageText": "BPC-157 vs TB-500. The recovery research, side by side. Blood vessels vs cell migration. Different mechanisms, same goal in studies. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "BPC-157 leans angiogenesis; TB-500 leans cell migration. Different mechanisms pointed at the same recovery question - which is why they're often researched together.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp",
+      "scheduledFor": "2026-06-16T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-24-ig-01.png",
+        "media/POST-B1-24-ig-02.png",
+        "media/POST-B1-24-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "BPC-157 vs TB-500",
+        "sub": "The recovery research, side by side.",
+        "slide2": "Blood vessels vs cell migration.",
+        "slide3": "Different mechanisms, same goal in studies."
+      }
+    },
+    {
+      "id": "POST-B1-24-TT",
+      "pillar": "Comparison",
+      "compound": "",
+      "note": "Comparison | BPC vs TB - the recovery debate",
+      "onImageText": "BPC vs TB - the recovery debate. BPC-157 vs TB-500: the honest comparison. Research & educational use only. Not medical advice.",
+      "caption": "BPC-157 vs TB-500: the honest comparison.",
+      "scheduledFor": "2026-06-16T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-24-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "BPC = blood vessels. TB = cell migration. different routes, same research goal. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "BPC vs TB - the recovery debate",
+        "title": "BPC-157 vs TB-500: the honest comparison."
+      }
+    },
+    {
+      "id": "POST-B1-25-IG",
+      "pillar": "Comparison",
+      "compound": "Tesamorelin",
+      "note": "Comparison | Visceral-fat research",
+      "onImageText": "Visceral-fat research. Tesamorelin vs CJC/Ipamorelin. One has direct trial data here. Evidence depth beats vibes. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "For visceral-fat research, Tesamorelin carries more direct human trial data than the CJC/Ipamorelin pair. When you compare, weigh evidence depth, not hype.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp #tesamorelin",
+      "scheduledFor": "2026-06-17T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-25-ig-01.png",
+        "media/POST-B1-25-ig-02.png",
+        "media/POST-B1-25-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Visceral-fat research",
+        "sub": "Tesamorelin vs CJC/Ipamorelin.",
+        "slide2": "One has direct trial data here.",
+        "slide3": "Evidence depth beats vibes."
+      }
+    },
+    {
+      "id": "POST-B1-25-TT",
+      "pillar": "Comparison",
+      "compound": "Tesamorelin",
+      "note": "Comparison | which one has the actual trials",
+      "onImageText": "which one has the actual trials. Tesamorelin vs CJC/Ipamorelin for visceral fat. Research & educational use only. Not medical advice.",
+      "caption": "Tesamorelin vs CJC/Ipamorelin for visceral fat.",
+      "scheduledFor": "2026-06-17T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-25-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "tesamorelin has more direct human trial data here. evidence depth wins. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp #tesamorelin"
+      },
+      "_tt": {
+        "hook": "which one has the actual trials",
+        "title": "Tesamorelin vs CJC/Ipamorelin for visceral fat."
+      }
+    },
+    {
+      "id": "POST-B1-26-IG",
+      "pillar": "Comparison",
+      "compound": "",
+      "note": "Comparison | The tier list",
+      "onImageText": "The tier list. Most-researched compounds, S to D. Ranked by evidence, not popularity. S = real human data. D = mostly anecdote. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Our tier list ranks research compounds by evidence strength - S (solid human data) down to D (mostly anecdote). Popularity and proof are not the same axis.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp",
+      "scheduledFor": "2026-06-17T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-26-ig-01.png",
+        "media/POST-B1-26-ig-02.png",
+        "media/POST-B1-26-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "The tier list",
+        "sub": "Most-researched compounds, S to D.",
+        "slide2": "Ranked by evidence, not popularity.",
+        "slide3": "S = real human data. D = mostly anecdote."
+      }
+    },
+    {
+      "id": "POST-B1-26-TT",
+      "pillar": "Comparison",
+      "compound": "",
+      "note": "Comparison | the research compound tier list",
+      "onImageText": "the research compound tier list. Most-researched compounds ranked S to D by evidence. Research & educational use only. Not medical advice.",
+      "caption": "Most-researched compounds ranked S to D by evidence.",
+      "scheduledFor": "2026-06-17T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-26-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "S = human data. D = anecdote. ranked by evidence, not by who's loudest. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "the research compound tier list",
+        "title": "Most-researched compounds ranked S to D by evidence."
+      }
+    },
+    {
+      "id": "POST-B1-27-IG",
+      "pillar": "Comparison",
+      "compound": "Semax",
+      "note": "Comparison | Semax vs Selank",
+      "onImageText": "Semax vs Selank. The nootropic research pair. Focus-leaning vs calm-leaning. Cousins, not twins. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Semax and Selank are research cousins - one studied more around focus, one around calm. Related origins, different reported profiles. Know which question you're asking.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp #semax",
+      "scheduledFor": "2026-06-18T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-27-ig-01.png",
+        "media/POST-B1-27-ig-02.png",
+        "media/POST-B1-27-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Semax vs Selank",
+        "sub": "The nootropic research pair.",
+        "slide2": "Focus-leaning vs calm-leaning.",
+        "slide3": "Cousins, not twins."
+      }
+    },
+    {
+      "id": "POST-B1-27-TT",
+      "pillar": "Comparison",
+      "compound": "Semax",
+      "note": "Comparison | Semax vs Selank in 10 seconds",
+      "onImageText": "Semax vs Selank in 10 seconds. Semax vs Selank: the nootropic research compounds. Research & educational use only. Not medical advice.",
+      "caption": "Semax vs Selank: the nootropic research compounds.",
+      "scheduledFor": "2026-06-18T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-27-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "semax leans focus, selank leans calm. cousins, not twins. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp #semax"
+      },
+      "_tt": {
+        "hook": "Semax vs Selank in 10 seconds",
+        "title": "Semax vs Selank: the nootropic research compounds."
+      }
+    },
+    {
+      "id": "POST-B1-28-IG",
+      "pillar": "Comparison",
+      "compound": "",
+      "note": "Comparison | Route matters",
+      "onImageText": "Route matters. Why 'how' changes 'how much works'. Bioavailability isn't the same everywhere. The route reshapes the whole study. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Change the research route and you change bioavailability - how much actually reaches the target. It's why you can't copy one study's design onto another route.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp",
+      "scheduledFor": "2026-06-18T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-28-ig-01.png",
+        "media/POST-B1-28-ig-02.png",
+        "media/POST-B1-28-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Route matters",
+        "sub": "Why 'how' changes 'how much works'.",
+        "slide2": "Bioavailability isn't the same everywhere.",
+        "slide3": "The route reshapes the whole study."
+      }
+    },
+    {
+      "id": "POST-B1-28-TT",
+      "pillar": "Comparison",
+      "compound": "",
+      "note": "Comparison | why the route changes everything",
+      "onImageText": "why the route changes everything. Why research route changes bioavailability. Research & educational use only. Not medical advice.",
+      "caption": "Why research route changes bioavailability.",
+      "scheduledFor": "2026-06-18T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-28-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "different route, different bioavailability. you can't copy-paste a study across routes. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "why the route changes everything",
+        "title": "Why research route changes bioavailability."
+      }
+    },
+    {
+      "id": "POST-B1-29-IG",
+      "pillar": "Comparison",
+      "compound": "",
+      "note": "Comparison | Solo vs combo",
+      "onImageText": "Solo vs combo. One compound or a researched pairing? Combos can layer mechanisms - or noise. More isn't automatically better. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Pairings can layer complementary mechanisms - or just add noise and confound the data. In research, more compounds means more variables, not automatically more signal.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp",
+      "scheduledFor": "2026-06-19T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-29-ig-01.png",
+        "media/POST-B1-29-ig-02.png",
+        "media/POST-B1-29-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Solo vs combo",
+        "sub": "One compound or a researched pairing?",
+        "slide2": "Combos can layer mechanisms - or noise.",
+        "slide3": "More isn't automatically better."
+      }
+    },
+    {
+      "id": "POST-B1-29-TT",
+      "pillar": "Comparison",
+      "compound": "",
+      "note": "Comparison | stacking: smart or just noise?",
+      "onImageText": "stacking: smart or just noise?. Single compound vs a researched combination. Research & educational use only. Not medical advice.",
+      "caption": "Single compound vs a researched combination.",
+      "scheduledFor": "2026-06-19T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-29-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "combos can layer mechanisms or just add noise. more isn't automatically better. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "stacking: smart or just noise?",
+        "title": "Single compound vs a researched combination."
+      }
+    },
+    {
+      "id": "POST-B1-30-IG",
+      "pillar": "Comparison",
+      "compound": "",
+      "note": "Comparison | Evidence grades",
+      "onImageText": "Evidence grades. Human vs animal vs anecdote. Not all 'studies' weigh the same. Grade the source before the claim. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "A human trial, a mouse study and a forum post are not interchangeable. Before you repeat a claim, grade its source. Evidence has a hierarchy for a reason.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp",
+      "scheduledFor": "2026-06-19T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-30-ig-01.png",
+        "media/POST-B1-30-ig-02.png",
+        "media/POST-B1-30-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Evidence grades",
+        "sub": "Human vs animal vs anecdote.",
+        "slide2": "Not all 'studies' weigh the same.",
+        "slide3": "Grade the source before the claim."
+      }
+    },
+    {
+      "id": "POST-B1-30-TT",
+      "pillar": "Comparison",
+      "compound": "",
+      "note": "Comparison | all 'studies' are not equal",
+      "onImageText": "all 'studies' are not equal. Human vs animal vs anecdote - the evidence ladder. Research & educational use only. Not medical advice.",
+      "caption": "Human vs animal vs anecdote - the evidence ladder.",
+      "scheduledFor": "2026-06-19T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-30-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "human trial > animal study > forum post. grade the source before the claim. Research & educational use only. Not medical advice. #researchcompounds #biochemistry #comparison #evidence #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "all 'studies' are not equal",
+        "title": "Human vs animal vs anecdote - the evidence ladder."
+      }
+    },
+    {
+      "id": "POST-B1-31-IG",
+      "pillar": "Trust",
+      "compound": "COA",
+      "note": "Trust | The Indexa Standard",
+      "onImageText": "The Indexa Standard. Every batch ships with a COA. Independent lab. Real numbers. Verify before you trust. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Our standard is simple: every batch ships with a third-party COA you can verify. No report, no release. Trust is built on numbers, not vibes.\n\n-\nResearch & educational use only. Not medical advice.\n\n#COA #thirdpartytested #labtested #transparency #researchcompounds #fyp #coa",
+      "scheduledFor": "2026-06-20T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-31-ig-01.png",
+        "media/POST-B1-31-ig-02.png",
+        "media/POST-B1-31-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "The Indexa Standard",
+        "sub": "Every batch ships with a COA.",
+        "slide2": "Independent lab. Real numbers.",
+        "slide3": "Verify before you trust."
+      }
+    },
+    {
+      "id": "POST-B1-31-TT",
+      "pillar": "Trust",
+      "compound": "COA",
+      "note": "Trust | our one non-negotiable",
+      "onImageText": "our one non-negotiable. The Indexa Standard: every batch, a COA. Research & educational use only. Not medical advice.",
+      "caption": "The Indexa Standard: every batch, a COA.",
+      "scheduledFor": "2026-06-20T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-31-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "every batch ships with a third-party COA. no report, no release. verify it yourself. Research & educational use only. Not medical advice. #COA #thirdpartytested #labtested #transparency #researchcompounds #fyp #coa"
+      },
+      "_tt": {
+        "hook": "our one non-negotiable",
+        "title": "The Indexa Standard: every batch, a COA."
+      }
+    },
+    {
+      "id": "POST-B1-32-IG",
+      "pillar": "Trust",
+      "compound": "",
+      "note": "Trust | Verify, don't trust",
+      "onImageText": "Verify, don't trust. Look it up before you believe us. Match your batch to its report. Two minutes that protect you. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Don't take our word - match your batch number to its report and read the numbers. Two minutes of verifying beats a lifetime of 'I hope it's real'.\n\n-\nResearch & educational use only. Not medical advice.\n\n#COA #thirdpartytested #labtested #transparency #researchcompounds #fyp",
+      "scheduledFor": "2026-06-20T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-32-ig-01.png",
+        "media/POST-B1-32-ig-02.png",
+        "media/POST-B1-32-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Verify, don't trust",
+        "sub": "Look it up before you believe us.",
+        "slide2": "Match your batch to its report.",
+        "slide3": "Two minutes that protect you."
+      }
+    },
+    {
+      "id": "POST-B1-32-TT",
+      "pillar": "Trust",
+      "compound": "",
+      "note": "Trust | don't trust us. verify us.",
+      "onImageText": "don't trust us. verify us.. How to verify your batch in 2 minutes. Research & educational use only. Not medical advice.",
+      "caption": "How to verify your batch in 2 minutes.",
+      "scheduledFor": "2026-06-20T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-32-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "match your batch to its COA and read it. don't trust - verify. takes 2 minutes. Research & educational use only. Not medical advice. #COA #thirdpartytested #labtested #transparency #researchcompounds #fyp"
+      },
+      "_tt": {
+        "hook": "don't trust us. verify us.",
+        "title": "How to verify your batch in 2 minutes."
+      }
+    },
+    {
+      "id": "POST-B1-33-IG",
+      "pillar": "Trust",
+      "compound": "",
+      "note": "Trust | Last report",
+      "onImageText": "Last report. What our latest COA actually showed. Identity confirmed. Purity logged. Receipts, not adjectives. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Here's what our most recent third-party report showed - identity confirmed, purity logged, batch on record. We'd rather hand you receipts than adjectives.\n\n-\nResearch & educational use only. Not medical advice.\n\n#COA #thirdpartytested #labtested #transparency #researchcompounds #fyp",
+      "scheduledFor": "2026-06-21T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-33-ig-01.png",
+        "media/POST-B1-33-ig-02.png",
+        "media/POST-B1-33-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Last report",
+        "sub": "What our latest COA actually showed.",
+        "slide2": "Identity confirmed. Purity logged.",
+        "slide3": "Receipts, not adjectives."
+      }
+    },
+    {
+      "id": "POST-B1-33-TT",
+      "pillar": "Trust",
+      "compound": "",
+      "note": "Trust | our latest report, unfiltered",
+      "onImageText": "our latest report, unfiltered. What our most recent COA actually showed. Research & educational use only. Not medical advice.",
+      "caption": "What our most recent COA actually showed.",
+      "scheduledFor": "2026-06-21T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-33-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "identity confirmed, purity logged, batch on record. receipts > adjectives. Research & educational use only. Not medical advice. #COA #thirdpartytested #labtested #transparency #researchcompounds #fyp"
+      },
+      "_tt": {
+        "hook": "our latest report, unfiltered",
+        "title": "What our most recent COA actually showed."
+      }
+    },
+    {
+      "id": "POST-B1-34-IG",
+      "pillar": "Trust",
+      "compound": "",
+      "note": "Trust | We publish fails",
+      "onImageText": "We publish fails. Pass or fail, the report stands. Hiding a fail is the real red flag. Transparency includes the bad days. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "A lab that only ever 'passes' is hiding something. Transparency means showing the misses too. A real report stands whether the news is good or not.\n\n-\nResearch & educational use only. Not medical advice.\n\n#COA #thirdpartytested #labtested #transparency #researchcompounds #fyp",
+      "scheduledFor": "2026-06-21T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-34-ig-01.png",
+        "media/POST-B1-34-ig-02.png",
+        "media/POST-B1-34-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "We publish fails",
+        "sub": "Pass or fail, the report stands.",
+        "slide2": "Hiding a fail is the real red flag.",
+        "slide3": "Transparency includes the bad days."
+      }
+    },
+    {
+      "id": "POST-B1-34-TT",
+      "pillar": "Trust",
+      "compound": "",
+      "note": "Trust | we'll show you the fails too",
+      "onImageText": "we'll show you the fails too. Why we publish failed reports, not just passes. Research & educational use only. Not medical advice.",
+      "caption": "Why we publish failed reports, not just passes.",
+      "scheduledFor": "2026-06-21T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-34-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "a brand that never fails a test is hiding the failures. we show ours. Research & educational use only. Not medical advice. #COA #thirdpartytested #labtested #transparency #researchcompounds #fyp"
+      },
+      "_tt": {
+        "hook": "we'll show you the fails too",
+        "title": "Why we publish failed reports, not just passes."
+      }
+    },
+    {
+      "id": "POST-B1-35-IG",
+      "pillar": "Trust",
+      "compound": "",
+      "note": "Trust | Where it comes from",
+      "onImageText": "Where it comes from. Sourcing, with the curtain pulled back. Origin you can actually trace. No mystery boxes. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "'Where does it come from?' is a fair question and we answer it. Traceable sourcing beats a mystery box every time - especially in this category.\n\n-\nResearch & educational use only. Not medical advice.\n\n#COA #thirdpartytested #labtested #transparency #researchcompounds #fyp",
+      "scheduledFor": "2026-06-22T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-35-ig-01.png",
+        "media/POST-B1-35-ig-02.png",
+        "media/POST-B1-35-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Where it comes from",
+        "sub": "Sourcing, with the curtain pulled back.",
+        "slide2": "Origin you can actually trace.",
+        "slide3": "No mystery boxes."
+      }
+    },
+    {
+      "id": "POST-B1-35-TT",
+      "pillar": "Trust",
+      "compound": "",
+      "note": "Trust | 'where does it actually come from'",
+      "onImageText": "'where does it actually come from'. Sourcing transparency, no mystery boxes. Research & educational use only. Not medical advice.",
+      "caption": "Sourcing transparency, no mystery boxes.",
+      "scheduledFor": "2026-06-22T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-35-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "traceable origin beats a mystery box. ask the question - we answer it. Research & educational use only. Not medical advice. #COA #thirdpartytested #labtested #transparency #researchcompounds #fyp"
+      },
+      "_tt": {
+        "hook": "'where does it actually come from'",
+        "title": "Sourcing transparency, no mystery boxes."
+      }
+    },
+    {
+      "id": "POST-B1-36-IG",
+      "pillar": "Trust",
+      "compound": "COA",
+      "note": "Trust | Anatomy of a COA",
+      "onImageText": "Anatomy of a COA. Every section, what it means. Header, method, results, signature. Learn it once, use it forever. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "A real third-party report has a shape: who tested, how, what they found, and a signature standing behind it. Learn the anatomy once and no label fools you again.\n\n-\nResearch & educational use only. Not medical advice.\n\n#COA #thirdpartytested #labtested #transparency #researchcompounds #fyp #coa",
+      "scheduledFor": "2026-06-22T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-36-ig-01.png",
+        "media/POST-B1-36-ig-02.png",
+        "media/POST-B1-36-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Anatomy of a COA",
+        "sub": "Every section, what it means.",
+        "slide2": "Header, method, results, signature.",
+        "slide3": "Learn it once, use it forever."
+      }
+    },
+    {
+      "id": "POST-B1-36-TT",
+      "pillar": "Trust",
+      "compound": "COA",
+      "note": "Trust | every part of a COA, decoded",
+      "onImageText": "every part of a COA, decoded. Anatomy of a real third-party report. Research & educational use only. Not medical advice.",
+      "caption": "Anatomy of a real third-party report.",
+      "scheduledFor": "2026-06-22T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-36-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "who tested, how, what they found, signed. learn the shape, never get fooled. Research & educational use only. Not medical advice. #COA #thirdpartytested #labtested #transparency #researchcompounds #fyp #coa"
+      },
+      "_tt": {
+        "hook": "every part of a COA, decoded",
+        "title": "Anatomy of a real third-party report."
+      }
+    },
+    {
+      "id": "POST-B1-37-IG",
+      "pillar": "Literature",
+      "compound": "BPC-157",
+      "note": "Literature | BPC-157 tendon data",
+      "onImageText": "BPC-157 tendon data. What the studies reported. Animal models, tendon-to-bone healing. Promising - and honestly graded. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "The BPC-157 tendon literature is largely animal-model work reporting faster tendon-to-bone healing. Promising signal, honestly graded - human data is still the gap.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp #bpc157",
+      "scheduledFor": "2026-06-23T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-37-ig-01.png",
+        "media/POST-B1-37-ig-02.png",
+        "media/POST-B1-37-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "BPC-157 tendon data",
+        "sub": "What the studies reported.",
+        "slide2": "Animal models, tendon-to-bone healing.",
+        "slide3": "Promising - and honestly graded."
+      }
+    },
+    {
+      "id": "POST-B1-37-TT",
+      "pillar": "Literature",
+      "compound": "BPC-157",
+      "note": "Literature | what the BPC-157 studies really said",
+      "onImageText": "what the BPC-157 studies really said. BPC-157 tendon research, honestly summarized. Research & educational use only. Not medical advice.",
+      "caption": "BPC-157 tendon research, honestly summarized.",
+      "scheduledFor": "2026-06-23T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-37-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "mostly animal tendon-healing data. promising signal, but human trials are the gap. Research & educational use only. Not medical advice. #researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp #bpc157"
+      },
+      "_tt": {
+        "hook": "what the BPC-157 studies really said",
+        "title": "BPC-157 tendon research, honestly summarized."
+      }
+    },
+    {
+      "id": "POST-B1-38-IG",
+      "pillar": "Literature",
+      "compound": "",
+      "note": "Literature | GLP-1 & cancer",
+      "onImageText": "GLP-1 & cancer. What ASCO 2026 actually showed. Signal worth reading, not a headline. Context beats the screenshot. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "The ASCO 2026 GLP-1 data sparked headlines; the actual signal is more nuanced. We read the abstract so you don't repeat the screenshot. Context first, always.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp",
+      "scheduledFor": "2026-06-23T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-38-ig-01.png",
+        "media/POST-B1-38-ig-02.png",
+        "media/POST-B1-38-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "GLP-1 & cancer",
+        "sub": "What ASCO 2026 actually showed.",
+        "slide2": "Signal worth reading, not a headline.",
+        "slide3": "Context beats the screenshot."
+      }
+    },
+    {
+      "id": "POST-B1-38-TT",
+      "pillar": "Literature",
+      "compound": "",
+      "note": "Literature | the GLP-1 cancer headline, unpacked",
+      "onImageText": "the GLP-1 cancer headline, unpacked. What ASCO 2026 actually said about GLP-1. Research & educational use only. Not medical advice.",
+      "caption": "What ASCO 2026 actually said about GLP-1.",
+      "scheduledFor": "2026-06-23T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-38-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "the headline oversold it. the data is more nuanced. read the abstract, not the screenshot. Research & educational use only. Not medical advice. #researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "the GLP-1 cancer headline, unpacked",
+        "title": "What ASCO 2026 actually said about GLP-1."
+      }
+    },
+    {
+      "id": "POST-B1-39-IG",
+      "pillar": "Literature",
+      "compound": "SS-31",
+      "note": "Literature | The cardiolipin paper",
+      "onImageText": "The cardiolipin paper. Szeto's work, plain English. Why a membrane lipid matters. Foundational, not flashy. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Szeto's cardiolipin research is the quiet foundation under the SS-31 story - why one membrane lipid shapes mitochondrial efficiency. Not flashy, genuinely important.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp #ss31",
+      "scheduledFor": "2026-06-24T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-39-ig-01.png",
+        "media/POST-B1-39-ig-02.png",
+        "media/POST-B1-39-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "The cardiolipin paper",
+        "sub": "Szeto's work, plain English.",
+        "slide2": "Why a membrane lipid matters.",
+        "slide3": "Foundational, not flashy."
+      }
+    },
+    {
+      "id": "POST-B1-39-TT",
+      "pillar": "Literature",
+      "compound": "SS-31",
+      "note": "Literature | the paper behind SS-31",
+      "onImageText": "the paper behind SS-31. Szeto's cardiolipin research, in plain English. Research & educational use only. Not medical advice.",
+      "caption": "Szeto's cardiolipin research, in plain English.",
+      "scheduledFor": "2026-06-24T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-39-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "one membrane lipid, big mitochondrial consequences. quiet but foundational work. Research & educational use only. Not medical advice. #researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp #ss31"
+      },
+      "_tt": {
+        "hook": "the paper behind SS-31",
+        "title": "Szeto's cardiolipin research, in plain English."
+      }
+    },
+    {
+      "id": "POST-B1-40-IG",
+      "pillar": "Literature",
+      "compound": "Epitalon",
+      "note": "Literature | Khavinson's findings",
+      "onImageText": "Khavinson's findings. The telomerase research, honestly. Intriguing - and worth the caveats. Read it skeptically, but read it. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Khavinson's Epitalon work around telomerase is intriguing and deserves the caveats - small samples, big claims. Read it skeptically, but actually read it.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp #epitalon",
+      "scheduledFor": "2026-06-24T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-40-ig-01.png",
+        "media/POST-B1-40-ig-02.png",
+        "media/POST-B1-40-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Khavinson's findings",
+        "sub": "The telomerase research, honestly.",
+        "slide2": "Intriguing - and worth the caveats.",
+        "slide3": "Read it skeptically, but read it."
+      }
+    },
+    {
+      "id": "POST-B1-40-TT",
+      "pillar": "Literature",
+      "compound": "Epitalon",
+      "note": "Literature | the telomere studies, fact-checked",
+      "onImageText": "the telomere studies, fact-checked. Khavinson's Epitalon telomerase research, honestly. Research & educational use only. Not medical advice.",
+      "caption": "Khavinson's Epitalon telomerase research, honestly.",
+      "scheduledFor": "2026-06-24T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-40-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "intriguing telomerase findings, small samples. read it - but skeptically. Research & educational use only. Not medical advice. #researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp #epitalon"
+      },
+      "_tt": {
+        "hook": "the telomere studies, fact-checked",
+        "title": "Khavinson's Epitalon telomerase research, honestly."
+      }
+    },
+    {
+      "id": "POST-B1-41-IG",
+      "pillar": "Literature",
+      "compound": "GHK-Cu",
+      "note": "Literature | Pickart's copper work",
+      "onImageText": "Pickart's copper work. Where GHK-Cu skincare comes from. Decades of copper-compound research. The science behind the serum. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Loren Pickart spent decades on copper-compound biology - the research bedrock under every GHK-Cu skincare claim. The serum is downstream of real science.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp #ghkcu",
+      "scheduledFor": "2026-06-25T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-41-ig-01.png",
+        "media/POST-B1-41-ig-02.png",
+        "media/POST-B1-41-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Pickart's copper work",
+        "sub": "Where GHK-Cu skincare comes from.",
+        "slide2": "Decades of copper-compound research.",
+        "slide3": "The science behind the serum."
+      }
+    },
+    {
+      "id": "POST-B1-41-TT",
+      "pillar": "Literature",
+      "compound": "GHK-Cu",
+      "note": "Literature | the scientist behind copper compounds",
+      "onImageText": "the scientist behind copper compounds. Pickart's copper-compound research, summarized. Research & educational use only. Not medical advice.",
+      "caption": "Pickart's copper-compound research, summarized.",
+      "scheduledFor": "2026-06-25T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-41-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "decades of copper-compound work. that's the science under your fancy serum. Research & educational use only. Not medical advice. #researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp #ghkcu"
+      },
+      "_tt": {
+        "hook": "the scientist behind copper compounds",
+        "title": "Pickart's copper-compound research, summarized."
+      }
+    },
+    {
+      "id": "POST-B1-42-IG",
+      "pillar": "Literature",
+      "compound": "",
+      "note": "Literature | Scaling math",
+      "onImageText": "Scaling math. Why you can't copy an animal study. Bodies don't scale linearly. Surface area, not bodyweight. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Animal-to-human conversion isn't 'multiply by weight' - it scales by surface area and metabolism. It's why copying a mouse study one-to-one is a research rookie error.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp",
+      "scheduledFor": "2026-06-25T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-42-ig-01.png",
+        "media/POST-B1-42-ig-02.png",
+        "media/POST-B1-42-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Scaling math",
+        "sub": "Why you can't copy an animal study.",
+        "slide2": "Bodies don't scale linearly.",
+        "slide3": "Surface area, not bodyweight."
+      }
+    },
+    {
+      "id": "POST-B1-42-TT",
+      "pillar": "Literature",
+      "compound": "",
+      "note": "Literature | why mouse studies don't copy-paste",
+      "onImageText": "why mouse studies don't copy-paste. Animal-to-human conversion, demystified (no specifics). Research & educational use only. Not medical advice.",
+      "caption": "Animal-to-human conversion, demystified (no specifics).",
+      "scheduledFor": "2026-06-25T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-42-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "you can't just scale by bodyweight. surface area + metabolism. that's the rookie trap. Research & educational use only. Not medical advice. #researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "why mouse studies don't copy-paste",
+        "title": "Animal-to-human conversion, demystified (no specifics)."
+      }
+    },
+    {
+      "id": "POST-B1-43-IG",
+      "pillar": "Literature",
+      "compound": "",
+      "note": "Literature | Spot junk studies",
+      "onImageText": "Spot junk studies. Five tells of a weak paper. No control, tiny n, big claim. Skepticism is a skill. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Weak studies share tells: no control group, tiny sample, conflict of interest, overreaching conclusion. Learn the five and you'll never be fooled by a citation again.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp",
+      "scheduledFor": "2026-06-26T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-43-ig-01.png",
+        "media/POST-B1-43-ig-02.png",
+        "media/POST-B1-43-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Spot junk studies",
+        "sub": "Five tells of a weak paper.",
+        "slide2": "No control, tiny n, big claim.",
+        "slide3": "Skepticism is a skill."
+      }
+    },
+    {
+      "id": "POST-B1-43-TT",
+      "pillar": "Literature",
+      "compound": "",
+      "note": "Literature | how to spot a garbage study",
+      "onImageText": "how to spot a garbage study. Five tells of a junk research paper. Research & educational use only. Not medical advice.",
+      "caption": "Five tells of a junk research paper.",
+      "scheduledFor": "2026-06-26T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-43-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "no control, tiny n, conflicts, big claims. learn the tells, stop getting fooled. Research & educational use only. Not medical advice. #researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "how to spot a garbage study",
+        "title": "Five tells of a junk research paper."
+      }
+    },
+    {
+      "id": "POST-B1-44-IG",
+      "pillar": "Literature",
+      "compound": "",
+      "note": "Literature | Why 'n=' matters",
+      "onImageText": "Why 'n=' matters. Sample size, the quiet kingmaker. n=6 is a hint, not a fact. Bigger n, fewer flukes. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "Sample size ('n=') quietly decides how much a study means. n=6 is a hint; n=600 is a finding. Always check the number before you trust the conclusion.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp",
+      "scheduledFor": "2026-06-26T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-44-ig-01.png",
+        "media/POST-B1-44-ig-02.png",
+        "media/POST-B1-44-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Why 'n=' matters",
+        "sub": "Sample size, the quiet kingmaker.",
+        "slide2": "n=6 is a hint, not a fact.",
+        "slide3": "Bigger n, fewer flukes."
+      }
+    },
+    {
+      "id": "POST-B1-44-TT",
+      "pillar": "Literature",
+      "compound": "",
+      "note": "Literature | the tiny number that changes everything",
+      "onImageText": "the tiny number that changes everything. Why sample size (n=) decides the whole study. Research & educational use only. Not medical advice.",
+      "caption": "Why sample size (n=) decides the whole study.",
+      "scheduledFor": "2026-06-26T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-44-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "n=6 is a hint. n=600 is a finding. always check the number first. Research & educational use only. Not medical advice. #researchcompounds #pubmed #evidencebased #biochemistry #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "the tiny number that changes everything",
+        "title": "Why sample size (n=) decides the whole study."
+      }
+    },
+    {
+      "id": "POST-B1-45-IG",
+      "pillar": "Product",
+      "compound": "BPC-157",
+      "note": "Product | Recovery shortlist",
+      "onImageText": "Recovery shortlist. The healing-research compounds. BPC-157 + TB-500, the classic pair. Studied for tissue repair. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "The recovery shortlist starts with BPC-157 and TB-500 - the most-researched pairing for tissue-repair questions. Trust the COA, then explore the literature.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #labtested #COA #indexalabs #sciencetok #fyp #bpc157",
+      "scheduledFor": "2026-06-27T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-45-ig-01.png",
+        "media/POST-B1-45-ig-02.png",
+        "media/POST-B1-45-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Recovery shortlist",
+        "sub": "The healing-research compounds.",
+        "slide2": "BPC-157 + TB-500, the classic pair.",
+        "slide3": "Studied for tissue repair."
+      }
+    },
+    {
+      "id": "POST-B1-45-TT",
+      "pillar": "Product",
+      "compound": "BPC-157",
+      "note": "Product | the recovery research everyone asks about",
+      "onImageText": "the recovery research everyone asks about. The healing-research compounds, shortlisted. Research & educational use only. Not medical advice.",
+      "caption": "The healing-research compounds, shortlisted.",
+      "scheduledFor": "2026-06-27T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-45-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "BPC-157 + TB-500 lead the recovery research. verify the batch, then read the studies. Research & educational use only. Not medical advice. #researchcompounds #labtested #COA #indexalabs #sciencetok #fyp #bpc157"
+      },
+      "_tt": {
+        "hook": "the recovery research everyone asks about",
+        "title": "The healing-research compounds, shortlisted."
+      }
+    },
+    {
+      "id": "POST-B1-46-IG",
+      "pillar": "Product",
+      "compound": "CJC-1295",
+      "note": "Product | The GH-axis pair",
+      "onImageText": "The GH-axis pair. The GH research duo. CJC-1295 + Ipamorelin together. Studied for natural-rhythm GH research. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "For GH-axis research, CJC-1295 paired with Ipamorelin is the studied classic - shaping baseline and pulse together. As always, COA first, claims never.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #labtested #COA #indexalabs #sciencetok #fyp #cjc1295",
+      "scheduledFor": "2026-06-27T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-46-ig-01.png",
+        "media/POST-B1-46-ig-02.png",
+        "media/POST-B1-46-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "The GH-axis pair",
+        "sub": "The GH research duo.",
+        "slide2": "CJC-1295 + Ipamorelin together.",
+        "slide3": "Studied for natural-rhythm GH research."
+      }
+    },
+    {
+      "id": "POST-B1-46-TT",
+      "pillar": "Product",
+      "compound": "CJC-1295",
+      "note": "Product | the GH-axis duo, explained",
+      "onImageText": "the GH-axis duo, explained. The GH research pair, spotlighted. Research & educational use only. Not medical advice.",
+      "caption": "The GH research pair, spotlighted.",
+      "scheduledFor": "2026-06-27T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-46-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "CJC-1295 + Ipamorelin is the GH-axis research duo. COA first, then the literature. Research & educational use only. Not medical advice. #researchcompounds #labtested #COA #indexalabs #sciencetok #fyp #cjc1295"
+      },
+      "_tt": {
+        "hook": "the GH-axis duo, explained",
+        "title": "The GH research pair, spotlighted."
+      }
+    },
+    {
+      "id": "POST-B1-47-IG",
+      "pillar": "Product",
+      "compound": "GHK-Cu",
+      "note": "Product | Skin & hair spotlight",
+      "onImageText": "Skin & hair spotlight. The copper research compound. GHK-Cu, the skincare-science darling. Studied for matrix remodeling. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "GHK-Cu is the skin-and-hair research compound with decades of copper-compound science behind it. We ship it with a COA - the science deserves the proof.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #labtested #COA #indexalabs #sciencetok #fyp #ghkcu",
+      "scheduledFor": "2026-06-28T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-47-ig-01.png",
+        "media/POST-B1-47-ig-02.png",
+        "media/POST-B1-47-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Skin & hair spotlight",
+        "sub": "The copper research compound.",
+        "slide2": "GHK-Cu, the skincare-science darling.",
+        "slide3": "Studied for matrix remodeling."
+      }
+    },
+    {
+      "id": "POST-B1-47-TT",
+      "pillar": "Product",
+      "compound": "GHK-Cu",
+      "note": "Product | the skin compound with real science",
+      "onImageText": "the skin compound with real science. GHK-Cu: the copper research compound spotlight. Research & educational use only. Not medical advice.",
+      "caption": "GHK-Cu: the copper research compound spotlight.",
+      "scheduledFor": "2026-06-28T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-47-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "decades of copper-compound research behind it. we ship it with a COA. Research & educational use only. Not medical advice. #researchcompounds #labtested #COA #indexalabs #sciencetok #fyp #ghkcu"
+      },
+      "_tt": {
+        "hook": "the skin compound with real science",
+        "title": "GHK-Cu: the copper research compound spotlight."
+      }
+    },
+    {
+      "id": "POST-B1-48-IG",
+      "pillar": "Product",
+      "compound": "Epitalon",
+      "note": "Product | Longevity shortlist",
+      "onImageText": "Longevity shortlist. The research-backed longevity names. Epitalon, SS-31, MOTS-C. Studied around aging biology. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "The longevity research shortlist - Epitalon, SS-31, MOTS-C - sits at biology's frontier. Fascinating, early, and honestly graded. Read before you believe.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #labtested #COA #indexalabs #sciencetok #fyp #epitalon",
+      "scheduledFor": "2026-06-28T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-48-ig-01.png",
+        "media/POST-B1-48-ig-02.png",
+        "media/POST-B1-48-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Longevity shortlist",
+        "sub": "The research-backed longevity names.",
+        "slide2": "Epitalon, SS-31, MOTS-C.",
+        "slide3": "Studied around aging biology."
+      }
+    },
+    {
+      "id": "POST-B1-48-TT",
+      "pillar": "Product",
+      "compound": "Epitalon",
+      "note": "Product | the longevity research shortlist",
+      "onImageText": "the longevity research shortlist. Longevity research compounds, shortlisted honestly. Research & educational use only. Not medical advice.",
+      "caption": "Longevity research compounds, shortlisted honestly.",
+      "scheduledFor": "2026-06-28T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-48-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "epitalon, SS-31, MOTS-C. frontier science. fascinating, early, honestly graded. Research & educational use only. Not medical advice. #researchcompounds #labtested #COA #indexalabs #sciencetok #fyp #epitalon"
+      },
+      "_tt": {
+        "hook": "the longevity research shortlist",
+        "title": "Longevity research compounds, shortlisted honestly."
+      }
+    },
+    {
+      "id": "POST-B1-49-IG",
+      "pillar": "Product",
+      "compound": "",
+      "note": "Product | Metabolic spotlight",
+      "onImageText": "Metabolic spotlight. The body-composition research class. The GLP-1 pathway, studied widely. Mechanism first, hype never. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "The metabolic-research class centers on the GLP-1 pathway - one of the most-studied signaling stories in the field. We lead with mechanism, never with hype.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #labtested #COA #indexalabs #sciencetok #fyp",
+      "scheduledFor": "2026-06-29T12:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-49-ig-01.png",
+        "media/POST-B1-49-ig-02.png",
+        "media/POST-B1-49-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "Metabolic spotlight",
+        "sub": "The body-composition research class.",
+        "slide2": "The GLP-1 pathway, studied widely.",
+        "slide3": "Mechanism first, hype never."
+      }
+    },
+    {
+      "id": "POST-B1-49-TT",
+      "pillar": "Product",
+      "compound": "",
+      "note": "Product | the metabolic research class, explained",
+      "onImageText": "the metabolic research class, explained. The body-composition research class, spotlighted. Research & educational use only. Not medical advice.",
+      "caption": "The body-composition research class, spotlighted.",
+      "scheduledFor": "2026-06-29T17:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-49-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "centered on the GLP-1 pathway - heavily studied. mechanism first, hype never. Research & educational use only. Not medical advice. #researchcompounds #labtested #COA #indexalabs #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "the metabolic research class, explained",
+        "title": "The body-composition research class, spotlighted."
+      }
+    },
+    {
+      "id": "POST-B1-50-IG",
+      "pillar": "Product",
+      "compound": "",
+      "note": "Product | What's in the fridge",
+      "onImageText": "What's in the fridge. New arrivals, this month. Fresh batches, fresh COAs. Every arrival, independently tested. The Indexa Standard: every compound ships with a third-party COA. Research & educational use only. Not medical advice.",
+      "caption": "New arrivals this month - each one fresh, batched, and shipped with its own third-party COA. We restock the science, not the hype. Verify any of them by batch.\n\n-\nResearch & educational use only. Not medical advice.\n\n#researchcompounds #labtested #COA #indexalabs #sciencetok #fyp",
+      "scheduledFor": "2026-06-29T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-50-ig-01.png",
+        "media/POST-B1-50-ig-02.png",
+        "media/POST-B1-50-ig-03.png"
+      ],
+      "_ig": {
+        "headline": "What's in the fridge",
+        "sub": "New arrivals, this month.",
+        "slide2": "Fresh batches, fresh COAs.",
+        "slide3": "Every arrival, independently tested."
+      }
+    },
+    {
+      "id": "POST-B1-50-TT",
+      "pillar": "Product",
+      "compound": "",
+      "note": "Product | what just landed in the fridge",
+      "onImageText": "what just landed in the fridge. New research-compound arrivals this month. Research & educational use only. Not medical advice.",
+      "caption": "New research-compound arrivals this month.",
+      "scheduledFor": "2026-06-29T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "media/POST-B1-50-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "fresh batches, fresh COAs. every arrival independently tested. verify by batch. Research & educational use only. Not medical advice. #researchcompounds #labtested #COA #indexalabs #sciencetok #fyp"
+      },
+      "_tt": {
+        "hook": "what just landed in the fridge",
+        "title": "New research-compound arrivals this month."
+      }
+    }
+  ]
+}

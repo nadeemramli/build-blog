@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.hasTag("kb-transcript")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Transcript
+  show:
+    displayName: Show
+  guest:
+    displayName: Guest
+  provenance:
+    displayName: Provenance
+  captured:
+    displayName: Captured
+  url:
+    displayName: URL
+views:
+  - type: table
+    name: All Transcripts
+    order:
+      - file.name
+      - show
+      - guest
+      - provenance
+      - captured
+    sort:
+      - property: captured
+        direction: DESC

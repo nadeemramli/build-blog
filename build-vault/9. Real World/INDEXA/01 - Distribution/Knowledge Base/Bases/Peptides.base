@@ -1,0 +1,36 @@
+filters:
+  and:
+    - file.hasTag("kb-peptide")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Peptide
+  category:
+    displayName: Category
+  evidence_tier:
+    displayName: Tier
+  half_life:
+    displayName: Half-life
+  product:
+    displayName: Product
+views:
+  - type: table
+    name: All Peptides
+    order:
+      - file.name
+      - category
+      - evidence_tier
+      - half_life
+      - product
+    sort:
+      - property: evidence_tier
+        direction: ASC
+  - type: table
+    name: Tier List
+    order:
+      - file.name
+      - category
+      - evidence_tier
+    sort:
+      - property: evidence_tier
+        direction: ASC

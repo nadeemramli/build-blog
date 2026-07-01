@@ -1,0 +1,47 @@
+filters:
+  and:
+    - file.hasTag("sales-order")
+    - '!file.name.contains("Template")'
+formulas:
+  net: 'subtotal - discount + shipping'
+properties:
+  file.name:
+    displayName: Order
+  status:
+    displayName: Status
+  channel:
+    displayName: Channel
+  customer:
+    displayName: Customer
+  order_date:
+    displayName: Date
+  total:
+    displayName: Total (RM)
+  formula.net:
+    displayName: Net (RM)
+views:
+  - type: table
+    name: All Orders
+    order:
+      - file.name
+      - order_date
+      - status
+      - channel
+      - customer
+      - total
+    sort:
+      - property: order_date
+        direction: DESC
+  - type: table
+    name: To Fulfil
+    filters:
+      and:
+        - 'status == "paid"'
+    order:
+      - file.name
+      - order_date
+      - customer
+      - total
+    sort:
+      - property: order_date
+        direction: ASC

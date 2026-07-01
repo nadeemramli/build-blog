@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.hasTag("kb-method")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Method
+  applies_to:
+    displayName: Applies to
+views:
+  - type: table
+    name: All Methods
+    order:
+      - file.name
+      - applies_to
+    sort:
+      - property: file.name
+        direction: ASC

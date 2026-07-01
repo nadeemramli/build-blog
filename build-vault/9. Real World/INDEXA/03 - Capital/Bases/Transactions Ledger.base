@@ -1,0 +1,66 @@
+filters:
+  and:
+    - file.hasTag("transaction")
+    - '!file.name.contains("Template")'
+formulas:
+  signed: if(direction == "in", amount, 0 - amount)
+properties:
+  file.name:
+    displayName: Txn
+  date:
+    displayName: Date
+  direction:
+    displayName: Dir
+  category:
+    displayName: Category
+  amount:
+    displayName: Amount (RM)
+  formula.signed:
+    displayName: Signed (RM)
+  account:
+    displayName: Account
+  reconciled:
+    displayName: Reconciled
+  ref:
+    displayName: Ref
+views:
+  - type: table
+    name: All Transactions
+    order:
+      - date
+      - direction
+      - category
+      - amount
+      - account
+      - reconciled
+      - ref
+    sort:
+      - property: date
+        direction: DESC
+  - type: table
+    name: Unreconciled
+    filters:
+      and:
+        - reconciled == false
+    order:
+      - date
+      - direction
+      - category
+      - amount
+      - account
+    sort:
+      - property: date
+        direction: ASC
+  - type: table
+    name: Money In
+    filters:
+      and:
+        - direction == "in"
+    order:
+      - date
+      - category
+      - amount
+      - ref
+    sort:
+      - property: date
+        direction: DESC

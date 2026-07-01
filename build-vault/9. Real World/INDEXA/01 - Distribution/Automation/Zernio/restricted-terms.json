@@ -1,0 +1,32 @@
+{
+  "_doc": "Restricted terms for IG/TikTok automation. 'block' = hard stop (publish.mjs refuses unless --force). 'caution' = warn only. 'swaps' = recommended replacements. Matching is case-insensitive, whole-word. Tune freely; this is the single source of truth for the lint gate. See 'Policy - Platform Restricted Terms.md'.",
+  "block": [
+    "retatrutide", "tirzepatide", "semaglutide", "liraglutide", "cagrilintide",
+    "ozempic", "wegovy", "mounjaro", "zepbound", "saxenda",
+    "inject", "injection", "injecting", "needle", "syringe", "subcutaneous", "intramuscular",
+    "dosage", "dose", "dosing", "mcg", "iu per",
+    "reconstitute", "reconstitution",
+    "cure", "cures", "treats", "treatment for", "heal disease", "prevents disease",
+    "for human use", "human consumption", "safe to take", "take this"
+  ],
+  "caution": [
+    "peptide", "peptides", "vial", "vials", "research chemical", "research chemicals",
+    "weight loss", "fat loss", "muscle growth", "anti-aging", "anti aging",
+    "sarms", "steroid", "hormone", "clinical", "mg", "ml", "protocol", "stack"
+  ],
+  "swaps": {
+    "retatrutide": "Reta / 'the compound' (never the full pharma name on-platform)",
+    "tirzepatide": "code name only; avoid the pharma name",
+    "semaglutide": "code name only; avoid the pharma name",
+    "peptide": "research compound / 'the compound'",
+    "peptides": "research compounds",
+    "weight loss": "metabolic research / body-composition research",
+    "fat loss": "body-composition research",
+    "injection": "handling / administration (reframe to research handling)",
+    "dosage": "research protocol amount",
+    "dose": "research amount",
+    "reconstitution": "preparation steps (link off-platform)",
+    "buy": "enquire / DM to order",
+    "for sale": "available to researchers (route off-platform)"
+  }
+}

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <rect width="1080" height="1920" fill="#FBF9F2"/>
+  <rect x="0" y="0" width="1080" height="16" fill="#111111"/>
+  <rect x="0" y="1904" width="1080" height="16" fill="#111111"/>
+
+  <!-- POV tag -->
+  <g font-family="Liberation Sans, DejaVu Sans" font-weight="bold">
+    <rect x="64" y="150" width="430" height="84" fill="#111111"/>
+    <text x="88" y="212" font-size="56" fill="#FBF9F2">POV: it's 2026</text>
+  </g>
+
+  <!-- HOOK -->
+  <g font-family="Liberation Sans, DejaVu Sans" font-weight="bold" fill="#111111" text-anchor="middle">
+    <text x="540" y="380" font-size="104">THE WORD TIKTOK</text>
+    <text x="540" y="492" font-size="104">KEEPS DELETING:</text>
+  </g>
+
+  <!-- censor bar -->
+  <rect x="170" y="536" width="740" height="118" fill="#111111"/>
+  <text x="540" y="614" font-family="Liberation Sans, DejaVu Sans" font-weight="bold" font-size="62" fill="#FBF9F2" text-anchor="middle">[ CENSORED ]</text>
+
+  <!-- setup line -->
+  <g font-family="Liberation Sans, DejaVu Sans" font-weight="bold" fill="#111111" text-anchor="middle">
+    <text x="540" y="752" font-size="54">(you know the one.) ok, fine —</text>
+    <text x="540" y="820" font-size="54">here's what it ACTUALLY is:</text>
+  </g>
+
+  <!-- amino-acid chain doodle -->
+  <g stroke="#111111" stroke-width="10">
+    <line x1="430" y1="1030" x2="650" y2="1030"/>
+    <circle cx="430" cy="1030" r="40" fill="#C9B6FF"/>
+    <circle cx="540" cy="1030" r="40" fill="#C9B6FF"/>
+    <circle cx="650" cy="1030" r="40" fill="#C9B6FF"/>
+  </g>
+  <ellipse cx="540" cy="1030" rx="225" ry="118" fill="none" stroke="#FF2D2D" stroke-width="12"/>
+  <g stroke="#FF2D2D" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 300 1210 Q 370 1150 420 1095"/>
+    <path d="M 382 1068 L 423 1098 L 382 1128"/>
+  </g>
+
+  <!-- payoff -->
+  <g font-family="Liberation Sans, DejaVu Sans" font-weight="bold" fill="#111111" text-anchor="middle">
+    <text x="540" y="1420" font-size="88">just a SHORT CHAIN</text>
+    <text x="540" y="1516" font-size="88">of amino acids.</text>
+    <text x="540" y="1620" font-size="56" fill="#4B3FCF">that's it. that's the whole post.</text>
+  </g>
+
+  <!-- footer -->
+  <g font-family="Liberation Sans, DejaVu Sans" text-anchor="middle">
+    <text x="540" y="1782" font-size="50" font-weight="bold" fill="#111111">the rest (while we still can) → @indexalabs</text>
+    <text x="540" y="1846" font-size="30" fill="#888888">For research &amp; educational use only. Not medical advice.</text>
+  </g>
+</svg>

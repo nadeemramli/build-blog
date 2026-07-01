@@ -1,0 +1,46 @@
+filters:
+  and:
+    - file.hasTag("stock-move")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Move
+  date:
+    displayName: Date
+  sku:
+    displayName: SKU
+  direction:
+    displayName: Dir
+  qty:
+    displayName: Qty
+  reason:
+    displayName: Reason
+  ref:
+    displayName: Ref
+views:
+  - type: table
+    name: Recent Movements
+    order:
+      - date
+      - sku
+      - direction
+      - qty
+      - reason
+      - ref
+    sort:
+      - property: date
+        direction: DESC
+  - type: table
+    name: Stock In
+    filters:
+      and:
+        - 'direction == "in"'
+    order:
+      - date
+      - sku
+      - qty
+      - reason
+      - ref
+    sort:
+      - property: date
+        direction: DESC

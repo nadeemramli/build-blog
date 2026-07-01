@@ -1,0 +1,39 @@
+filters:
+  and:
+    - file.hasTag("month-close")
+    - '!file.name.contains("Template")'
+formulas:
+  gross_profit: revenue - cogs
+  net_margin: if(revenue > 0, ((net / revenue) * 100).toFixed(0) + "%", "—")
+properties:
+  file.name:
+    displayName: Month
+  revenue:
+    displayName: Revenue (RM)
+  cogs:
+    displayName: COGS (RM)
+  formula.gross_profit:
+    displayName: Gross (RM)
+  opex:
+    displayName: Opex (RM)
+  net:
+    displayName: Net (RM)
+  formula.net_margin:
+    displayName: Net %
+  cash_end:
+    displayName: Cash End (RM)
+views:
+  - type: table
+    name: Monthly
+    order:
+      - file.name
+      - revenue
+      - cogs
+      - formula.gross_profit
+      - opex
+      - net
+      - formula.net_margin
+      - cash_end
+    sort:
+      - property: month
+        direction: DESC

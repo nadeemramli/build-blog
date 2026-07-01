@@ -1,0 +1,44 @@
+filters:
+  and:
+    - file.hasTag("expense")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Expense
+  date:
+    displayName: Date
+  category:
+    displayName: Category
+  vendor:
+    displayName: Vendor
+  amount:
+    displayName: Amount (RM)
+  recurring:
+    displayName: Recurring
+  account:
+    displayName: Account
+views:
+  - type: table
+    name: All Expenses
+    order:
+      - date
+      - category
+      - vendor
+      - amount
+      - recurring
+    sort:
+      - property: date
+        direction: DESC
+  - type: table
+    name: Recurring (fixed burn)
+    filters:
+      and:
+        - recurring != "one-time"
+    order:
+      - vendor
+      - category
+      - amount
+      - recurring
+    sort:
+      - property: amount
+        direction: DESC

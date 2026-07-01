@@ -1,0 +1,46 @@
+filters:
+  and:
+    - file.hasTag("content-post")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Post
+  publish_date:
+    displayName: Publish
+  channel:
+    displayName: Channel
+  format:
+    displayName: Format
+  pillar:
+    displayName: Pillar
+  status:
+    displayName: Status
+  hook:
+    displayName: Hook
+views:
+  - type: table
+    name: Upcoming
+    filters:
+      and:
+        - 'status != "published"'
+    order:
+      - publish_date
+      - channel
+      - format
+      - pillar
+      - status
+      - hook
+    sort:
+      - property: publish_date
+        direction: ASC
+  - type: table
+    name: All Content
+    order:
+      - publish_date
+      - channel
+      - pillar
+      - status
+      - file.name
+    sort:
+      - property: publish_date
+        direction: DESC

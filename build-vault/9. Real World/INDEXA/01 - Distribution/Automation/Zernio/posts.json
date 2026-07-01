@@ -1,0 +1,52 @@
+{
+  "timezone": "Asia/Kuala_Lumpur",
+  "defaults": {
+    "mode": "draft"
+  },
+  "posts": [
+    {
+      "id": "POST-20260603-001",
+      "note": "Instagram beautiful carousel - What is it, really? (education, policy-safe)",
+      "onImageText": "Research compounds 01. What is it, really? A 60-second primer, minus the hype. Simple version: a short chain of amino acids. Short chain - a signal. Long chain - a protein. Long chains are proteins. The short ones are different and your body already makes thousands of them as signaling molecules. Why researchers care: they're precise signals. It tells a cell what to do and only that. That specificity is why they're studied across recovery, metabolism, skin and longevity. The Indexa Standard: every compound ships with a third-party COA. Verify the batch before you trust it. Read the full primer, link in bio. For research and educational use only. Not medical advice.",
+      "caption": "What is it, really?\n\nNo hype - here's the actual definition. It's a short chain of amino acids: the same building blocks your body already uses to send signals between cells.\n\nLong chains are proteins. The short ones are different - precise signals that tell a cell what to do, and only that. That's why they're studied across recovery, metabolism, skin and longevity.\n\nOne rule before you trust any source: read the third-party COA. Every Indexa compound is testable by batch.\n\nSave this for the next time the algorithm won't let someone say the word. Full primer in bio.\n\n-\nFor research & educational use only. Not medical advice.\n\n#aminoacids #researchcompounds #biochemistry #longevity #COA #thirdpartytested #labtested #indexalabs",
+      "scheduledFor": "2026-06-09T19:00:00",
+      "platforms": [
+        {
+          "platform": "instagram",
+          "accountId": "REPLACE_IG_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "../../Content/_assets/POST-20260603-001-ig-01.png",
+        "../../Content/_assets/POST-20260603-001-ig-02.png",
+        "../../Content/_assets/POST-20260603-001-ig-03.png"
+      ]
+    },
+    {
+      "id": "POST-20260603-002",
+      "note": "TikTok braindead poster - the censored word (education, policy-safe)",
+      "onImageText": "POV: it's 2026. The word TikTok keeps deleting: [ censored ]. (you know the one.) ok, fine - here's what it actually is: just a short chain of amino acids. that's it. that's the whole post. the rest (while we still can) @indexalabs. For research and educational use only. Not medical advice.",
+      "caption": "The word TikTok keeps nuking? Here's what it actually is.",
+      "scheduledFor": "2026-06-09T20:00:00",
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "accountId": "REPLACE_TIKTOK_ACCOUNT_ID"
+        }
+      ],
+      "media": [
+        "../../Content/_assets/POST-20260603-002-tiktok.png"
+      ],
+      "tiktokSettings": {
+        "privacy_level": "PUBLIC_TO_EVERYONE",
+        "media_type": "photo",
+        "photo_cover_index": 0,
+        "allow_comment": true,
+        "auto_add_music": true,
+        "content_preview_confirmed": true,
+        "express_consent_given": true,
+        "description": "tiktok keeps nuking the word so we're not gonna say it. here's what it actually is though: a short chain of amino acids. that's the whole video. your body already makes thousands of them. follow for the part nobody explains - like reading a third-party COA before you trust anything. research/edu only, not medical advice. #aminoacids #researchcompounds #biochemistry #labtested #COA #sciencetok #fyp"
+      }
+    }
+  ]
+}

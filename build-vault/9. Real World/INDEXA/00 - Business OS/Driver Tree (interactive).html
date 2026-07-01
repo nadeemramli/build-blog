@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Indexa — Value Architecture / Driver Tree</title>
+<style>
+  :root{
+    --grow:#1f7a3d; --grow-bg:#e9f5ee;
+    --cost:#a23636; --cost-bg:#fbecec;
+    --lever:#2d4a7a; --lever-bg:#e9eef7;
+    --ink:#1d2430; --muted:#5d6b7a; --line:rgba(0,0,0,.12);
+    --bg:#ffffff; --surf:#f6f8fa;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --ink:#e6eaf0; --muted:#9aa7b5; --line:rgba(255,255,255,.16);
+      --bg:#10141a; --surf:#171c24;
+      --grow-bg:#13301f; --cost-bg:#2e1717; --lever-bg:#16223a; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    color:var(--ink);background:var(--bg);line-height:1.5;padding:20px}
+  h1{font-size:20px;font-weight:600;margin:0 0 2px}
+  .sub{color:var(--muted);font-size:13px;margin-bottom:16px}
+  .stage{display:inline-block;background:var(--lever-bg);color:var(--lever);
+    border-radius:20px;padding:4px 12px;font-size:12px;font-weight:600;margin-bottom:16px}
+  .metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-bottom:20px}
+  .m{background:var(--surf);border-radius:8px;padding:10px 12px}
+  .m .l{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+  .m .v{font-size:19px;font-weight:600;margin-top:2px}
+  .wrap{display:grid;grid-template-columns:1.35fr 1fr;gap:18px}
+  @media(max-width:720px){.wrap{grid-template-columns:1fr}}
+  .tree{display:flex;flex-direction:column;gap:8px}
+  .tier{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+  .op{text-align:center;color:var(--muted);font-size:12px;font-weight:600;margin:-2px 0}
+  .node{flex:1;min-width:96px;border-radius:8px;padding:8px 10px;cursor:pointer;
+    border:1px solid var(--line);background:var(--bg);transition:transform .08s,box-shadow .08s;text-align:left}
+  .node:hover{transform:translateY(-1px);box-shadow:0 2px 8px rgba(0,0,0,.10)}
+  .node.sel{outline:2px solid var(--ink);outline-offset:1px}
+  .node .t{font-size:13px;font-weight:600}
+  .node .n{font-size:12px;color:var(--muted);margin-top:2px}
+  .grow{background:var(--grow-bg)} .grow .t{color:var(--grow)}
+  .cost{background:var(--cost-bg)} .cost .t{color:var(--cost)}
+  .lever{background:var(--lever-bg)} .lever .t{color:var(--lever)}
+  .legend{display:flex;gap:14px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin:6px 0 14px}
+  .legend span{display:inline-flex;align-items:center;gap:5px}
+  .dot{width:10px;height:10px;border-radius:3px;display:inline-block}
+  .panel{background:var(--surf);border-radius:10px;padding:16px;align-self:start;position:sticky;top:12px}
+  .panel h3{margin:0 0 4px;font-size:16px}
+  .panel .tag{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.04em}
+  .panel .cur{margin:10px 0;padding:8px 10px;background:var(--bg);border-radius:7px;font-size:13px}
+  .panel .cur b{color:var(--ink)}
+  .panel .lvl{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em;margin:14px 0 4px}
+  .panel ul{margin:0;padding-left:18px;font-size:13px}
+  .panel li{margin:3px 0}
+  .owner{margin-top:12px;font-size:12px;color:var(--muted)}
+  .owner b{color:var(--ink)}
+</style>
+</head>
+<body>
+<h1>Indexa — Value Architecture</h1>
+<div class="sub">Click any node to see the lever and who pulls it. Reconciled actuals, Mar–May 2026. *Cash is commingled in a personal account — business cash pending the founder↔company split.</div>
+<div class="stage">● Stage 1 — Compound Stock &amp; Buffer · first fix: separate business cash</div>
+
+<div class="metrics">
+  <div class="m"><div class="l">Revenue to date</div><div class="v">RM12,950</div></div>
+  <div class="m"><div class="l">Gross profit</div><div class="v">RM8,563</div></div>
+  <div class="m"><div class="l">Gross margin</div><div class="v">66%</div></div>
+  <div class="m"><div class="l">Inventory @ cost</div><div class="v">RM1,437</div></div>
+  <div class="m"><div class="l">Reseller share</div><div class="v">97%</div></div>
+  <div class="m"><div class="l">Cash on hand</div><div class="v">TBD*</div></div>
+</div>
+
+<div class="legend">
+  <span><i class="dot" style="background:var(--grow)"></i>grows value</span>
+  <span><i class="dot" style="background:var(--cost)"></i>cost (keep low)</span>
+  <span><i class="dot" style="background:var(--lever)"></i>lever (pull this)</span>
+</div>
+
+<div class="wrap">
+  <div class="tree" id="tree">
+    <div class="tier"><button class="node grow" data-k="nw"><div class="t">📈 Net worth</div><div class="n">cash commingled*</div></button></div>
+    <div class="op">= Net Profit − Owner Draws</div>
+    <div class="tier">
+      <button class="node grow" data-k="np"><div class="t">Net profit (to date)</div><div class="n">≈ RM8,200</div></button>
+      <button class="node cost" data-k="od"><div class="t">Owner draws</div><div class="n">tangled in personal a/c</div></button>
+    </div>
+    <div class="op">Net Profit = Gross Profit − Opex</div>
+    <div class="tier">
+      <button class="node grow" data-k="gp"><div class="t">Gross profit</div><div class="n">RM8,563</div></button>
+      <button class="node cost" data-k="ox"><div class="t">Operating expense</div><div class="n">light (~RM105/mo)</div></button>
+    </div>
+    <div class="op">Gross Profit = Revenue − COGS</div>
+    <div class="tier">
+      <button class="node grow" data-k="rev"><div class="t">🟣 Revenue</div><div class="n">RM12,950</div></button>
+      <button class="node cost" data-k="cogs"><div class="t">COGS</div><div class="n">RM4,387</div></button>
+    </div>
+    <div class="op">Revenue = Orders × AOV</div>
+    <div class="tier">
+      <button class="node lever" data-k="agents"><div class="t">👥 Resellers 97%</div><div class="n">Muz 93% · risk</div></button>
+      <button class="node lever" data-k="threads"><div class="t">🧵 Threads</div><div class="n">RM0 · untapped</div></button>
+      <button class="node lever" data-k="tiktok"><div class="t">📱 TikTok</div><div class="n">RM0 · untapped</div></button>
+      <button class="node lever" data-k="price"><div class="t">🏷️ Price &amp; mix</div><div class="n">Reta = 95%</div></button>
+    </div>
+    <div class="op">Cost &amp; compounding levers</div>
+    <div class="tier">
+      <button class="node lever" data-k="landed"><div class="t">📦 Landed cost</div><div class="n">supplier waterfall</div></button>
+      <button class="node lever" data-k="stockout"><div class="t">⚠️ Stockouts</div><div class="n">= lost sales</div></button>
+      <button class="node lever" data-k="assets"><div class="t">🏭 Assets</div><div class="n">Stage 2 build</div></button>
+      <button class="node lever" data-k="trust"><div class="t">🛡️ Trust equity</div><div class="n">COA / Verify</div></button>
+    </div>
+  </div>
+
+  <div class="panel" id="panel"></div>
+</div>
+
+<script>
+const D={
+  nw:{t:"Net worth",tag:"grow",cur:"Business has generated <b>RM8,563 gross profit</b> and collected <b>RM12,950</b> — but cash is <b>commingled</b> in a personal account, so a clean net-worth/cash figure is pending.",lv:["Settle the founder↔company balance, then separate a business account.","Hard assets today: ≈ RM1,437 inventory at cost."],o:"All pillars"},
+  np:{t:"Net profit (to date)",tag:"grow",cur:"<b>≈ RM8,200</b> = RM8,563 gross − light opex. Some costs (Janoshik COA, domain, phone) not yet logged.",lv:["Log every recurring cost so net is true.","Watch the gap, not just revenue."],o:"🟢 Capital"},
+  od:{t:"Owner draws",tag:"cost",cur:"<b>Tangled</b> — all sales cash sits in the founder's personal account, and the founder funded purchases personally.",lv:["Settle founder↔company; book a clean loan account.","Then hold draws at RM0 until Stage 3."],o:"🎯 Charter rule"},
+  gp:{t:"Gross profit",tag:"grow",cur:"<b>RM8,563</b> = 66% gross margin on RM12,950 revenue.",lv:["Raise revenue or cut cost-per-unit.","Margin is healthy — defend it."],o:"🟢 Capital"},
+  ox:{t:"Operating expense",tag:"cost",cur:"<b>Light</b>: Lovable RM105/mo logged. Janoshik COA, domain, phone not yet logged. No ad spend.",lv:["Log all recurring costs; cut tools that don't earn.","Keep any future ROAS ≥ 2.0."],o:"🟢 Capital"},
+  rev:{t:"Revenue (to date)",tag:"grow",cur:"<b>RM12,950</b> Mar–May. Muz 12,030 · Kio 370 · Haikhal 150 · Najiha 400.",lv:["Add order volume — esp. off the Muz dependency.","Raise AOV via price ladder + Wolverine blends."],o:"🟣 Distribution"},
+  cogs:{t:"COGS",tag:"cost",cur:"<b>RM4,387</b> = units sold × landed cost.",lv:["Source down the supplier waterfall.","Update #costing on every PO."],o:"🟠 Operation"},
+  agents:{t:"Resellers — 97% of revenue",tag:"lever",cur:"<b>Muz alone = 93%</b> (RM12,030). Kio 370, Haikhal 150. If Muz stalls, revenue stalls.",lv:["THE growth risk: recruit a 4th/5th reseller; grow Kio & Haikhal.","Add agent: field so Bases track per-reseller revenue.","Define a repeatable agent offer."],o:"🟣 Distribution → Community & Agents"},
+  threads:{t:"Threads",tag:"lever",cur:"<b>RM0</b> — completely untapped (the old 'campaign' data was fake).",lv:["3–5 knowledge-led posts/week (COA literacy).","CTA → Verify/COA → WhatsApp close."],o:"🟣 Distribution → Threads"},
+  tiktok:{t:"TikTok",tag:"lever",cur:"<b>RM0</b> — untapped. No real campaign has run.",lv:["Weekly video batch.","Hand qualified DMs to a reseller."],o:"🟣 Distribution → TikTok"},
+  price:{t:"Price &amp; product mix",tag:"lever",cur:"Reta = ~95% of revenue; sold at RM400 dropship (RM350 early). Public ladder unset.",lv:["Complete R10/R20/R30 public + dropship.","Build & sell Wolverine blends (5 possible); price GHK/CJC."],o:"🟢 Capital → Pricing Model"},
+  landed:{t:"Landed cost / unit",tag:"lever",cur:"Reta RM133/unit; 66% realised gross margin.",lv:["Source BFF (Reta) → TCI → Uther waterfall.","Re-cost on every PO so you never sell at a loss."],o:"🟠 Operation → Suppliers"},
+  stockout:{t:"Stockouts = lost sales",tag:"lever",cur:"<b>Reta down to 4; GHK-Cu sold out (0).</b> Reta = ~95% of revenue.",lv:["Restock Reta now — a stockout here near-stops revenue.","Reorder-point discipline."],o:"🟠 Operation → Restock SOP"},
+  assets:{t:"Productive assets",tag:"lever",cur:"None owned yet. Funded in Stage 2.",lv:["Buy in-house packaging/printer, owned brand kit, ad accounts.","Permanently lowers COGS/opex + raises price power."],o:"🟢 Capital funds → 🟣/🟠 use"},
+  trust:{t:"Trust equity",tag:"lever",cur:"COA / Verify is our edge vs Olymp.",lv:["Lead with third-party test reports everywhere.","Research-grade packaging + consistent brand raise conversion at every node."],o:"🟣 Distribution → Brand pipeline"}
+};
+const panel=document.getElementById('panel');
+const cmap={grow:'var(--grow)',cost:'var(--cost)',lever:'var(--lever)'};
+function show(k){
+  const d=D[k];
+  document.querySelectorAll('.node').forEach(n=>n.classList.toggle('sel',n.dataset.k===k));
+  panel.innerHTML=
+    '<div class="tag" style="color:'+cmap[d.tag]+'">'+(d.tag==='grow'?'Grows value':d.tag==='cost'?'Cost — keep low':'Lever — pull this')+'</div>'+
+    '<h3>'+d.t+'</h3>'+
+    '<div class="cur">'+d.cur+'</div>'+
+    '<div class="lvl">Executional lever</div>'+
+    '<ul>'+d.lv.map(x=>'<li>'+x+'</li>').join('')+'</ul>'+
+    '<div class="owner">Owner: <b>'+d.o+'</b></div>';
+}
+document.querySelectorAll('.node').forEach(n=>n.addEventListener('click',()=>show(n.dataset.k)));
+show('agents');
+</script>
+</body>
+</html>

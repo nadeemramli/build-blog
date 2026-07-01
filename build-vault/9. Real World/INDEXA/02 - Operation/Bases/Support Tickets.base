@@ -1,0 +1,44 @@
+filters:
+  and:
+    - file.hasTag("support-ticket")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Ticket
+  channel:
+    displayName: Channel
+  topic:
+    displayName: Topic
+  status:
+    displayName: Status
+  customer:
+    displayName: Customer
+  opened:
+    displayName: Opened
+views:
+  - type: table
+    name: Open
+    filters:
+      and:
+        - 'status != "resolved"'
+    order:
+      - file.name
+      - channel
+      - topic
+      - status
+      - customer
+      - opened
+    sort:
+      - property: opened
+        direction: ASC
+  - type: table
+    name: All Tickets
+    order:
+      - file.name
+      - channel
+      - topic
+      - status
+      - opened
+    sort:
+      - property: opened
+        direction: DESC

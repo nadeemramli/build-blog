@@ -1,0 +1,21 @@
+filters:
+  and:
+    - file.hasTag("kb-compound")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Compound
+  class:
+    displayName: Class
+  evidence_tier:
+    displayName: Tier
+views:
+  - type: table
+    name: All Compounds
+    order:
+      - file.name
+      - class
+      - evidence_tier
+    sort:
+      - property: file.name
+        direction: ASC

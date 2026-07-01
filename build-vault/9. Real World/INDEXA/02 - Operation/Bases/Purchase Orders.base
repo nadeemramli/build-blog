@@ -1,0 +1,46 @@
+filters:
+  and:
+    - file.hasTag("purchase-order")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: PO
+  supplier:
+    displayName: Supplier
+  status:
+    displayName: Status
+  order_date:
+    displayName: Ordered
+  eta:
+    displayName: ETA
+  lines:
+    displayName: Lines
+  total_cost:
+    displayName: Cost (RM)
+views:
+  - type: table
+    name: Incoming
+    filters:
+      and:
+        - 'status != "received"'
+        - 'status != "cancelled"'
+    order:
+      - file.name
+      - supplier
+      - status
+      - eta
+      - total_cost
+    sort:
+      - property: eta
+        direction: ASC
+  - type: table
+    name: All POs
+    order:
+      - file.name
+      - supplier
+      - status
+      - order_date
+      - total_cost
+    sort:
+      - property: order_date
+        direction: DESC

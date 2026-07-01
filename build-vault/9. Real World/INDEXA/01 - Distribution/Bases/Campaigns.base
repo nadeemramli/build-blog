@@ -1,0 +1,50 @@
+filters:
+  and:
+    - file.hasTag("campaign")
+    - '!file.name.contains("Template")'
+formulas:
+  roas: 'if(spend > 0, (revenue / spend).toFixed(2), "—")'
+  spend_pct: 'if(budget > 0, (spend / budget * 100).toFixed(0) + "%", "—")'
+properties:
+  file.name:
+    displayName: Campaign
+  status:
+    displayName: Status
+  channel:
+    displayName: Channel
+  objective:
+    displayName: Objective
+  spend:
+    displayName: Spend (RM)
+  revenue:
+    displayName: Revenue (RM)
+  formula.roas:
+    displayName: ROAS
+  formula.spend_pct:
+    displayName: Budget Used
+views:
+  - type: table
+    name: Live
+    filters:
+      and:
+        - 'status == "live"'
+    order:
+      - file.name
+      - channel
+      - objective
+      - spend
+      - revenue
+      - formula.roas
+      - formula.spend_pct
+    sort:
+      - property: revenue
+        direction: DESC
+  - type: table
+    name: All Campaigns
+    order:
+      - file.name
+      - status
+      - channel
+      - spend
+      - revenue
+      - formula.roas

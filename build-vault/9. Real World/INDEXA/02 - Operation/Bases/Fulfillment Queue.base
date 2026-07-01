@@ -1,0 +1,43 @@
+filters:
+  and:
+    - file.hasTag("fulfillment")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Fulfilment
+  order:
+    displayName: Order
+  status:
+    displayName: Status
+  courier:
+    displayName: Courier
+  tracking:
+    displayName: Tracking
+  ship_date:
+    displayName: Shipped
+views:
+  - type: table
+    name: Queue (open)
+    filters:
+      and:
+        - 'status != "delivered"'
+    order:
+      - file.name
+      - order
+      - status
+      - courier
+      - tracking
+    sort:
+      - property: status
+        direction: ASC
+  - type: table
+    name: All Fulfilments
+    order:
+      - file.name
+      - order
+      - status
+      - ship_date
+      - tracking
+    sort:
+      - property: ship_date
+        direction: DESC

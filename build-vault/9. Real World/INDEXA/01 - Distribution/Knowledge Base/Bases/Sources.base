@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.hasTag("kb-source")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Source
+  publisher:
+    displayName: Publisher
+  evidence:
+    displayName: Evidence
+  captured:
+    displayName: Captured
+  url:
+    displayName: URL
+views:
+  - type: table
+    name: All Sources
+    order:
+      - file.name
+      - publisher
+      - evidence
+      - captured
+    sort:
+      - property: captured
+        direction: DESC

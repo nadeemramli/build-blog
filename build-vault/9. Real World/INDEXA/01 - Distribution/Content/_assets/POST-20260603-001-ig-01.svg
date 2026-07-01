@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  
+  <rect width="1080" height="1350" fill="#F4F1E9"/>
+  <rect x="48" y="48" width="984" height="1254" fill="none" stroke="#CFC9B8" stroke-width="2"/>
+  <g font-family="Liberation Mono, DejaVu Sans Mono" font-size="26" letter-spacing="6" fill="#16181D">
+    <text x="84" y="120">INDEXA</text>
+    <text x="84" y="158" fill="#5B5C57" font-size="22" letter-spacing="4">RESEARCH NOTES</text>
+    <text x="996" y="120" text-anchor="end">01 / 03</text>
+  </g>
+  <line x1="84" y1="190" x2="996" y2="190" stroke="#CFC9B8" stroke-width="2"/>
+
+  <text x="84" y="330" font-family="Liberation Mono, DejaVu Sans Mono" font-size="22" letter-spacing="3" fill="#3D34C9">RESEARCH COMPOUNDS · 01</text>
+  <g font-family="DejaVu Serif" font-weight="bold" fill="#16181D">
+    <text x="80" y="500" font-size="116">What is it,</text>
+    <text x="80" y="620" font-size="116">really?</text>
+  </g>
+  <text x="84" y="710" font-family="Liberation Sans, DejaVu Sans" font-size="40" fill="#5B5C57">A 60-second primer, minus the hype.</text>
+  <g><line x1="300.0" y1="960" x2="780.0" y2="960" stroke="#16181D" stroke-width="3"/><circle cx="300.0" cy="960" r="36" fill="#3D34C9" stroke="#16181D" stroke-width="3"/><circle cx="420.0" cy="960" r="36" fill="#3D34C9" stroke="#16181D" stroke-width="3"/><circle cx="540.0" cy="960" r="36" fill="#3D34C9" stroke="#16181D" stroke-width="3"/><circle cx="660.0" cy="960" r="36" fill="#3D34C9" stroke="#16181D" stroke-width="3"/><circle cx="780.0" cy="960" r="36" fill="#3D34C9" stroke="#16181D" stroke-width="3"/></g>
+  <text x="84" y="1150" font-family="Liberation Sans, DejaVu Sans" font-size="34" font-style="italic" fill="#3D34C9">swipe →</text>
+  
+  <line x1="84" y1="1200" x2="996" y2="1200" stroke="#CFC9B8" stroke-width="2"/>
+  <g font-family="Liberation Mono, DejaVu Sans Mono" font-size="22" letter-spacing="3" fill="#5B5C57">
+    <text x="84" y="1240">@indexalabs</text>
+    <text x="996" y="1240" text-anchor="end">THE PRIMER</text>
+    <text x="84" y="1272" font-size="18" letter-spacing="1">FOR RESEARCH &amp; EDUCATIONAL USE ONLY — NOT MEDICAL ADVICE</text>
+  </g>
+
+</svg>

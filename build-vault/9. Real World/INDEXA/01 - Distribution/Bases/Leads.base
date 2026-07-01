@@ -1,0 +1,45 @@
+filters:
+  and:
+    - file.hasTag("lead")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Lead
+  status:
+    displayName: Stage
+  source:
+    displayName: Source
+  interest:
+    displayName: Interest
+  value_est:
+    displayName: Est. Value (RM)
+  last_touch:
+    displayName: Last Touch
+views:
+  - type: table
+    name: Pipeline
+    filters:
+      and:
+        - 'status != "lost"'
+        - 'status != "won"'
+    order:
+      - file.name
+      - status
+      - source
+      - interest
+      - value_est
+      - last_touch
+    sort:
+      - property: last_touch
+        direction: DESC
+  - type: table
+    name: All Leads
+    order:
+      - file.name
+      - status
+      - source
+      - interest
+      - value_est
+    sort:
+      - property: last_touch
+        direction: DESC

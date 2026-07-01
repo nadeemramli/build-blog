@@ -1,0 +1,24 @@
+filters:
+  and:
+    - file.hasTag("kb-stack")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Stack
+  goal:
+    displayName: Goal
+  timing:
+    displayName: Timing
+  evidence:
+    displayName: Evidence
+views:
+  - type: table
+    name: All Stacks
+    order:
+      - file.name
+      - goal
+      - timing
+      - evidence
+    sort:
+      - property: file.name
+        direction: ASC

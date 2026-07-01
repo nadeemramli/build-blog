@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  
+  <rect width="1080" height="1350" fill="#F4F1E9"/>
+  <rect x="48" y="48" width="984" height="1254" fill="none" stroke="#CFC9B8" stroke-width="2"/>
+  <g font-family="Liberation Mono, DejaVu Sans Mono" font-size="26" letter-spacing="6" fill="#16181D">
+    <text x="84" y="120">INDEXA</text>
+    <text x="84" y="158" fill="#5B5C57" font-size="22" letter-spacing="4">RESEARCH NOTES</text>
+    <text x="996" y="120" text-anchor="end">03 / 03</text>
+  </g>
+  <line x1="84" y1="190" x2="996" y2="190" stroke="#CFC9B8" stroke-width="2"/>
+
+  <text x="84" y="300" font-family="Liberation Mono, DejaVu Sans Mono" font-size="22" letter-spacing="3" fill="#3D34C9">02 — WHY RESEARCHERS CARE</text>
+  <g font-family="DejaVu Serif" font-weight="bold" fill="#16181D">
+    <text x="80" y="410" font-size="60">They're precise</text>
+    <text x="80" y="480" font-size="60">signals.</text>
+  </g>
+  <g font-family="Liberation Sans, DejaVu Sans" font-size="34" fill="#5B5C57">
+    <text x="84" y="580">It tells a cell what to do — and only that.</text>
+    <text x="84" y="628">That specificity is why they're studied across</text>
+    <text x="84" y="676">recovery, metabolism, skin and longevity.</text>
+  </g>
+  <rect x="84" y="760" width="912" height="190" fill="#FFFFFF" stroke="#CFC9B8" stroke-width="2"/>
+  <text x="116" y="828" font-family="Liberation Mono, DejaVu Sans Mono" font-size="22" letter-spacing="4" fill="#3D34C9">THE INDEXA STANDARD</text>
+  <g font-family="Liberation Sans, DejaVu Sans" font-size="32" fill="#16181D">
+    <text x="116" y="884">Every compound ships with a third-party COA.</text>
+    <text x="116" y="926" font-weight="bold">Verify the batch before you trust it.</text>
+  </g>
+  <text x="84" y="1060" font-family="DejaVu Serif" font-weight="bold" font-size="44" fill="#16181D">Read the full primer →</text>
+  <text x="84" y="1110" font-family="Liberation Sans, DejaVu Sans" font-size="32" fill="#3D34C9">link in bio · indexalabs</text>
+  
+  <line x1="84" y1="1200" x2="996" y2="1200" stroke="#CFC9B8" stroke-width="2"/>
+  <g font-family="Liberation Mono, DejaVu Sans Mono" font-size="22" letter-spacing="3" fill="#5B5C57">
+    <text x="84" y="1240">@indexalabs</text>
+    <text x="996" y="1240" text-anchor="end">WHY IT MATTERS</text>
+    <text x="84" y="1272" font-size="18" letter-spacing="1">FOR RESEARCH &amp; EDUCATIONAL USE ONLY — NOT MEDICAL ADVICE</text>
+  </g>
+
+</svg>

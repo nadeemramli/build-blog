@@ -1,0 +1,27 @@
+filters:
+  and:
+    - file.hasTag("kb-paper")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Paper
+  year:
+    displayName: Year
+  model:
+    displayName: Model
+  evidence_weight:
+    displayName: Weight
+  journal:
+    displayName: Journal
+views:
+  - type: table
+    name: All Papers
+    order:
+      - file.name
+      - year
+      - model
+      - evidence_weight
+      - journal
+    sort:
+      - property: year
+        direction: DESC

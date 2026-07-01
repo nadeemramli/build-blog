@@ -1,0 +1,52 @@
+filters:
+  and:
+    - file.hasTag("costing")
+    - '!file.name.contains("Template")'
+formulas:
+  cost: 'landed_cost + pack_cost'
+  ds_margin: 'price_dropship - landed_cost - pack_cost'
+  pub_margin: 'price_public - landed_cost - pack_cost'
+  pub_pct: 'if(price_public > 0, ((price_public - landed_cost - pack_cost) / price_public * 100).toFixed(0) + "%", "—")'
+properties:
+  file.name:
+    displayName: Cost Card
+  product:
+    displayName: Product
+  formula.cost:
+    displayName: Cost (RM)
+  price_dropship:
+    displayName: Dropship (RM)
+  price_public:
+    displayName: Public (RM)
+  formula.ds_margin:
+    displayName: DS Margin
+  formula.pub_margin:
+    displayName: Pub Margin
+  formula.pub_pct:
+    displayName: Pub %
+views:
+  - type: table
+    name: Margins (both tiers)
+    order:
+      - product
+      - formula.cost
+      - price_dropship
+      - price_public
+      - formula.ds_margin
+      - formula.pub_margin
+      - formula.pub_pct
+    sort:
+      - property: product
+        direction: ASC
+  - type: table
+    name: Public price missing
+    filters:
+      and:
+        - 'price_public == 0'
+    order:
+      - product
+      - price_dropship
+      - formula.cost
+    sort:
+      - property: product
+        direction: ASC

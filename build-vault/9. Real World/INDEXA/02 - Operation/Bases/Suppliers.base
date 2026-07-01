@@ -1,0 +1,27 @@
+filters:
+  and:
+    - file.hasTag("supplier")
+    - '!file.name.contains("Template")'
+properties:
+  file.name:
+    displayName: Supplier
+  name:
+    displayName: Name
+  payment:
+    displayName: Payment
+  status:
+    displayName: Status
+  lead_time_days:
+    displayName: Lead (days)
+views:
+  - type: table
+    name: Suppliers
+    order:
+      - file.name
+      - name
+      - payment
+      - status
+      - lead_time_days
+    sort:
+      - property: status
+        direction: ASC

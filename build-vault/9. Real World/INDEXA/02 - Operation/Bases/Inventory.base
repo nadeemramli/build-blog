@@ -1,0 +1,56 @@
+filters:
+  and:
+    - file.hasTag("inventory")
+    - '!file.name.contains("Template")'
+formulas:
+  available: 'on_hand - reserved'
+  stock_value: '(on_hand * unit_cost).toFixed(0)'
+  needs_reorder: 'if((on_hand - reserved) <= reorder_point, "⚠️ REORDER", "ok")'
+properties:
+  file.name:
+    displayName: SKU
+  product:
+    displayName: Product
+  dose:
+    displayName: Dose
+  on_hand:
+    displayName: On Hand
+  reserved:
+    displayName: Reserved
+  formula.available:
+    displayName: Available
+  reorder_point:
+    displayName: Reorder At
+  formula.needs_reorder:
+    displayName: Flag
+  formula.stock_value:
+    displayName: Stock Value (RM)
+views:
+  - type: table
+    name: Low Stock
+    filters:
+      and:
+        - 'on_hand - reserved <= reorder_point'
+    order:
+      - file.name
+      - product
+      - formula.available
+      - reorder_point
+      - supplier
+    sort:
+      - property: on_hand
+        direction: ASC
+  - type: table
+    name: All Stock
+    order:
+      - file.name
+      - product
+      - dose
+      - on_hand
+      - reserved
+      - formula.available
+      - formula.needs_reorder
+      - formula.stock_value
+    sort:
+      - property: product
+        direction: ASC
