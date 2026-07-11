@@ -1,0 +1,14 @@
+﻿{
+    "mcpServers":  {
+                       "open-knowledge":  {
+                                              "command":  "C:\\Users\\Nadeem\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe",
+                                              "args":  [
+                                                           "C:\\Users\\Nadeem\\AppData\\Roaming\\npm\\node_modules\\@inkeep\\open-knowledge\\dist\\cli.mjs",
+                                                           "--cwd",
+                                                           "C:\\Users\\Nadeem\\Desktop\\Obsidian\\build-blog",
+                                                           "mcp",
+                                                           "--no-bundle-proxy"
+                                                       ]
+                                          }
+                   }
+}
