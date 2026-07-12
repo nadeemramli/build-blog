@@ -14,7 +14,9 @@ tags: [agent-resource, project-register]
 | --- | --- | --- | --- |
 | Canvasm / Metrimap | Active | [Canvasm - Easy Workflow](<../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/>) | Product learning source is the Obsidian folder. Start with [Project Memory - Metrimap](<../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/Project Memory - Metrimap.md>). Implementation source is the WSL repo recorded in that note. |
 | INDEXA | Active, real-world business | [INDEXA Real World OS](<../9. Real World/INDEXA/>) | Live business records live in `9. Real World/INDEXA`. Money work starts in `03 - Capital`; operating rules live in `00 - Business OS`. |
-| Twinagent | Active concept | [Twinagent](<../5. Idea Vault/Application/B2C/Active/Twinagent/>) | Local-first agent work command center inspired by Agent Notch and Superwhisper-style hover UI. Intended to monitor and manage Codex, Claude, VPS agents, scheduled work, alerts, usage, and approvals in one glance. |
+| Twinagent | Active build | [Twinagent](<../5. Idea Vault/Application/B2C/Active/Twinagent/>) | Local-first agent work command center with a scaffolded Rust/Tauri repo; runs as a separate product track from Pernance. |
+| Properbooky / Bookie | Active product | [Bookie - Unified Reading Experience](<../5. Idea Vault/Application/B2C/Active/Bookie - Unified Reading Experience/>) | Private local-first reading/capture layer for books, articles, highlights and queryable knowledge; app library is operational truth and Obsidian receives durable learning outputs. |
+| Pernance | Active build | [Pernance - Local Personal Finance](<../5. Idea Vault/Application/B2C/Active/Pernance - Local Personal Finance/>) | Bootstrapped Tauri/Rust finance evidence engine. Phase 1 uses HSBC, GXBank and TNG across an aligned three-month period; runs as a separate product track from Twinagent. |
 
 ## INDEXA Documentation Split
 
@@ -50,8 +52,8 @@ These folders exist in active areas, but should not be treated as today's active
 
 - [Iteratus - Productive Creative Iteration](<../5. Idea Vault/Application/B2B/Active/Iteratus - Productive Creative Iteration/>)
 - [Momentus - Unified Analytics for Improving Marketing Operation](<../5. Idea Vault/Application/B2B/Active/Momentus - Unified Analytics for Improving Marketing Operation/>)
-- [Bookie - Unified Reading Experience](<../5. Idea Vault/Application/B2C/Active/Bookie - Unified Reading Experience/>)
 - [Pushday.app - Fitness Analytics](<../5. Idea Vault/Application/B2C/Active/Pushday.app - Fitness Analytics/>)
+- [AttributeOS - Local Health Evidence](<../5. Idea Vault/Application/B2C/Draft/AttributeOS - Local Health Evidence/>) - draft local-first compiler for WHOOP, Apple Health, Hevy, MacroFactor and laboratory evidence; not admitted to build.
 
 ## Open Questions
 
@@ -59,3 +61,4 @@ These folders exist in active areas, but should not be treated as today's active
 - Should INDEXA get a canonical project hub under `5. Idea Vault`, or should the Real World OS remain the only source of truth?
 - What budgeting cadence should be used for active projects: weekly cash review, monthly close, or per-project burn/runway review?
 - What is the first real Twinagent connector: Codex, Claude, or VPS heartbeat?
+- Which native formats do HSBC, GXBank and TNG provide in the representative files, and what aligned three-month window covers all three?

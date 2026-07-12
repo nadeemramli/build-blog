@@ -2,11 +2,25 @@
 title: Agent Resource Changelog
 description: Dated changes to agent navigation, vault operating memory, and workflow principles.
 created: 2026-07-07
-updated: 2026-07-09
+updated: 2026-07-12
 tags: [agent-resource, changelog]
 ---
 
 # Agent Resource Changelog
+
+## 2026-07-12
+
+### Central PA Control and Operating System Routing
+
+- Updated the Build Vault agent guide to require the central PA Control guide first.
+- Clarified that PA Control owns cross-vault goals, portfolio admission, decision rights, and conflicts while Build Vault retains project/business authority.
+- Routed private personal finance, health, biomarker, physique, lifestyle, and protocol records to the separate Operating System vault.
+- Added health-commerce legal, privacy, medical-claim, and project-admission boundaries.
+
+### Why
+
+- Agents need one governance layer across vaults without flattening each vault's local source of truth.
+- Public content, private personal operations, career learning, and live business records require different authority and privacy rules.
 
 ## 2026-07-09
 

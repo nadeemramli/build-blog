@@ -2,7 +2,7 @@
 title: Twinagent - Project Hub
 description: Project hub for a local agent work command center inspired by Agent Notch and Superwhisper-style hover UI.
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-07-13
 tags: [project-hub, b2c, active, agent-workflow, local-first]
 ---
 
@@ -61,5 +61,4 @@ Issues and roadmap live in Linear: [Twinagent project](https://linear.app/canvas
 
 ## Current Status
 
-Planning complete (2026-07-10): stack and UX decisions locked, [Phase 1 Breakdown](<./Phase 1 Breakdown.md>) written with 5 milestones and acceptance criteria. Next: scaffold the repo at `~/workspace/github.com/nadeemramli/twinagent` and start Milestone 0.
-
+Planning and initial scaffold are complete: the Rust workspace and Tauri v2 shell were created at `~/workspace/github.com/nadeemramli/twinagent` on 10 July 2026. Twinagent runs as a separate product track from Pernance. Next Phase 1 work is the local-file usage sources, WSL collector, embedded hub, and real-session widget prototype documented in [Task List](<./Task List.md>).
