@@ -2,7 +2,7 @@
 title: 2026-07-08 - Owner Cost Inputs
 description: Owner-provided cost snapshot for shared infrastructure, builder tooling, and INDEXA website/domain spend.
 created: 2026-07-08
-updated: 2026-07-08
+updated: 2026-07-21
 source_type: owner-message-and-screenshots
 tags: [real-world, budget, source, owner-input]
 ---
@@ -28,7 +28,10 @@ This note captures costs provided by the owner in Codex on 2026-07-08. It is a b
 | Linear | 12 USD | Monthly | Owner message | Shared project-management/tooling cost. |
 | Claude | 200 USD | Monthly | Owner message | Shared AI development/tooling cost. |
 | Codex | 20 USD | Monthly | Owner message | Shared AI development/tooling cost. |
-| Cursor | TODO | Monthly if active | Owner question | Useful to track current recurring amount. Historical month-by-month breakdown is optional unless reconstructing full cashflow. |
+| Cursor | 0 | Not applicable | Owner decision 2026-07-21 | Rejected permanently; exclude from the active budget and stack. |
+
+> [!note] Superseding decision
+> The original 2026-07-08 question about Cursor is closed. It is not an active or planned subscription.
 
 ## INDEXA Website And Domains
 

@@ -182,6 +182,9 @@ Founder-confirmed model: **the only money ever poured in was the first 2 batches
 >
 > **One number to close it:** how much of the RM4,230 have you taken for personal emergencies? `business cash still in the account = 4,230 − that`. I'll book the rest as an `owner-draw` (founder loan) so the books are clean.
 
+> [!warning] 2026-07-21 owner update — new reconciliation required
+> Nadeem estimates INDEXA should currently be entitled to at least RM5,000 based on later purchases/sales, reports personal use including computer upgrades, and plans repayment from July/August income. This does not replace the 2026-06-01 cutoff or prove current bank cash. Reconcile through [2026-07-21 Owner Cash Reconciliation Intake](<./Cashflow/2026-07-21 - Owner Cash Reconciliation Intake.md>) before changing the founder-loan balance or recording repayment.
+
 ### Monthly cost of the business (now known) — strikingly low
 
 | Cost | RM/month | Type |
@@ -191,7 +194,7 @@ Founder-confirmed model: **the only money ever poured in was the first 2 batches
 | **Fixed total** | **≈ RM28/mo** | |
 | Shipping | RM15 × orders | variable |
 | Janoshik COA | ~RM243 per new batch tested | variable |
-| *Cursor / phone* | *not given* | *add if real* |
+| *Business phone/top-ups* | *not given* | *add if real* |
 
 **The business runs on ≈ RM28/month of fixed cost.** That's the real edge — it's almost pure margin; the only meaningful costs are per-batch (stock + COA) and per-order (shipping).
 
@@ -204,6 +207,7 @@ Founder-confirmed model: **the only money ever poured in was the first 2 batches
 - [ ] **The 7 GHK-Cu** (and ~4 Reta, 1 BPC, 1 TB500, 1 CJC) not in any sale — personal use, or free samples? (Splits owner-draw vs marketing.)
 - [ ] **Muz exact Reta count** (if you know it) — to nail the ~4 Reta personal gap.
 - [ ] **Company-paid-by-founder list**: item · RM · date (for the founder ↔ company balance).
+- [ ] **2026-07-21 founder-cash refresh:** bank/e-wallet exports, later sales/purchases, computer transaction amount/date, and whether it is already included in the RM4,230 owner-draw.
 - [x] **Phantom records deleted** (SKUs, cost cards, fake order/txn/ful, fake lead/campaign/content/ad, fake month-close) — vault now holds only real data.
 - [x] **Analytics docs rebuilt** with real figures (Mission, Driver Tree, KPI Dashboard).
 

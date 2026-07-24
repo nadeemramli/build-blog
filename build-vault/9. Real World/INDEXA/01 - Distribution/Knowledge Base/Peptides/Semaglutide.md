@@ -18,6 +18,8 @@ components: []
 evidence_tier: A
 research_use_only: true
 sources:
+- '[[SOURCE-semaglutide-evoke-alzheimers-phase3-2026]]'
+- '[[SOURCE-cagrisema-redefine-phase3-2026]]'
 - '[[SOURCE-glp1-breast-cancer-incidence-mcdonald-2026]]'
 - '[[SOURCE-glp1-breast-cancer-outcomes]]'
 - '[[SOURCE-asco2026-glp1-cancer-progression]]'
@@ -42,6 +44,10 @@ tags:
 - `[literature]` Emerging **oncology** signal: GLP-1 RAs associated with reduced metastatic progression of obesity-related cancers (ASCO 2026) and better breast-cancer survival in obesity/T2D (JAMA Netw Open 2026, HR 0.35/0.09). Observational — not causal yet. — [[SOURCE-asco2026-glp1-cancer-progression]], [[SOURCE-glp1-breast-cancer-outcomes]]
 
 - `[literature]` **Lower breast-cancer INCIDENCE (prevention axis; ASCO 2026 Abstract 10506, JCO Oncology Practice):** in 94,827 cancer-free women (BMI≥25), GLP-1 RA exposure → ~25–37% lower odds of developing breast cancer (matched OR 0.746, P<.0005); signal reportedly persisted after adjusting for weight loss. Observational. — [[SOURCE-glp1-breast-cancer-incidence-mcdonald-2026]]
+
+- `[literature]` **Alzheimer's — NEGATIVE Phase 3 (EVOKE / EVOKE+, Lancet 2026):** in 3,808 amyloid-positive adults with early AD, **oral semaglutide 14 mg missed the CDR-SB primary endpoint at 104 wk** (no cognitive or functional benefit vs placebo) despite a ~30% CRP drop. The definitive interventional test of the observational "−45% dementia-risk" claim — and it **did not replicate as a treatment effect**. — [[SOURCE-semaglutide-evoke-alzheimers-phase3-2026]]
+
+- `[literature]` **Amylin/GLP-1 combo (CagriSema, REDEFINE-1/-2, ADA 2025 / NEJM):** semaglutide 2.4 mg + cagrilintide 2.4 mg → **20.4% weight loss** (68 wk, no-diabetes; 22.7% full-adherence) vs 14.9% for semaglutide alone — the amylin arm adds meaningfully on top of GLP-1. NDA filed; FDA decision expected late 2026. — [[SOURCE-cagrisema-redefine-phase3-2026]]
 
 ## Anecdotes
 

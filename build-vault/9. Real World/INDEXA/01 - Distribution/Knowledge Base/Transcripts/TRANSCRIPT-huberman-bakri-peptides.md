@@ -4,48 +4,50 @@ id: TRANSCRIPT-huberman-bakri-peptides
 title: "Huberman Lab — Dr. Abu Bakri: A Masterclass on Peptides"
 source: youtube
 url: https://www.youtube.com/watch?v=_DfqnpSbMfE
-show: "Huberman Lab Podcast"
-host: "Andrew Huberman"
-guest: "Dr. Abu Bakri, MD (internal medicine)"
+show: Huberman Lab Podcast
+host: Andrew Huberman
+guest: Dr. Abu Bakri, MD (internal medicine)
 provenance: anecdote
 captured: 2026-06-02
 peptides:
-- '[[BPC-157]]'
-- '[[TB-500]]'
-- '[[Pinealon]]'
-- '[[Epithalon]]'
-- '[[Thymosin Alpha-1]]'
-- '[[GHK-Cu]]'
-- '[[Tesamorelin]]'
-- '[[Ipamorelin]]'
-- '[[HGH]]'
-- '[[IGF-1 LR3]]'
-- '[[HCG]]'
-- '[[Retatrutide]]'
-- '[[Tirzepatide]]'
+  - "[[BPC-157]]"
+  - "[[TB-500]]"
+  - "[[Pinealon]]"
+  - "[[Epithalon]]"
+  - "[[Thymosin Alpha-1]]"
+  - "[[GHK-Cu]]"
+  - "[[Tesamorelin]]"
+  - "[[Ipamorelin]]"
+  - "[[HGH]]"
+  - "[[IGF-1 LR3]]"
+  - "[[HCG]]"
+  - "[[Retatrutide]]"
+  - "[[Tirzepatide]]"
 mechanisms:
-- '[[Angiogenesis]]'
-- '[[Collagen Synthesis]]'
-- '[[GH Secretagogue]]'
-- '[[GHRH Analog]]'
-- '[[Ghrelin-GHRP Agonism]]'
-- '[[GLP-1 Agonism]]'
-- '[[GIP Agonism]]'
-- '[[Glucagon Agonism]]'
-- '[[Thymic Immune Modulation]]'
-- '[[Telomerase Activation]]'
-- '[[Peptide Bioregulation]]'
-- '[[IGF-1 Signaling]]'
+  - "[[Angiogenesis]]"
+  - "[[Collagen Synthesis]]"
+  - "[[GH Secretagogue]]"
+  - "[[GHRH Analog]]"
+  - "[[Ghrelin-GHRP Agonism]]"
+  - "[[GLP-1 Agonism]]"
+  - "[[GIP Agonism]]"
+  - "[[Glucagon Agonism]]"
+  - "[[Thymic Immune Modulation]]"
+  - "[[Telomerase Activation]]"
+  - "[[Peptide Bioregulation]]"
+  - "[[IGF-1 Signaling]]"
 concepts:
-- '[[Secretagogue]]'
-- '[[Peptide Stacking]]'
-- '[[Bioregulator]]'
-- '[[Research-Use-Only]]'
-- '[[COA]]'
-- '[[Purity]]'
-- '[[Dosing & Titration]]'
+  - "[[Secretagogue]]"
+  - "[[Peptide Stacking]]"
+  - "[[Bioregulator]]"
+  - "[[Research-Use-Only]]"
+  - "[[9. Real World/INDEXA/01 - Distribution/Knowledge Base/Concepts/COA]]"
+  - "[[Purity]]"
+  - "[[Dosing & Titration]]"
 research_use_only: true
-tags: [kb-transcript, anecdote]
+tags:
+  - kb-transcript
+  - anecdote
 ---
 
 # Huberman Lab — Dr. Abu Bakri: A Masterclass on Peptides

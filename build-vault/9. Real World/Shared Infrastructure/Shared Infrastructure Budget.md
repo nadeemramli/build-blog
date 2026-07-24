@@ -22,7 +22,7 @@ Track shared infrastructure once, at the portfolio/platform layer.
 
 ## Why This Exists
 
-Canvasm's current infrastructure plan includes shared workers and services that can support more than the Canvasm app: MCP/API hosting, background jobs, render/export workloads, notification workers, CRDT collaboration, connected-account sync, ingest workers, and webhook receivers. Source: [Project Memory - Metrimap](<../../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/Project Memory - Metrimap.md>) and [Shared Infra (Hetzner VPS)](<../../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/PRD/4. Product/7. Shared Infra (Hetzner VPS).md>).
+Canvasm's current infrastructure plan includes shared workers and services that can support more than the Canvasm app: MCP/API hosting, background jobs, render/export workloads, notification workers, CRDT collaboration, connected-account sync, ingest workers, and webhook receivers. Source: [Project Memory - Metrimap](<Project Memory - Metrimap.md>) and [Shared Infra (Hetzner VPS)](<7. Shared Infra (Hetzner VPS).md>).
 
 ## Classification Rule
 
@@ -40,18 +40,18 @@ Amounts below are filled only when confirmed from invoices, dashboards, bank rec
 
 | Item | Role | Primary current beneficiary | Shareable? | Billing cycle | Amount | Status | Source |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Hetzner CPX22 `metrimap-mcp` | Always-on Docker host for serverless-hostile workloads | Canvasm/Metrimap | Yes | Monthly | 26.49 EUR/month | active | [2026-07-08 - Owner Cost Inputs](<../Shared Operating Costs/Sources/2026-07-08 - Owner Cost Inputs.md>) and [Shared Infra (Hetzner VPS)](<../../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/PRD/4. Product/7. Shared Infra (Hetzner VPS).md>) |
-| Redis / job queue | Queues, rate limits, background jobs | Canvasm/Metrimap | Yes | TODO | TODO | planned | [Project Memory - Metrimap](<../../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/Project Memory - Metrimap.md>) |
-| Worker services | Compute, RCA/drift, notifications, exports, sync, ingest | Canvasm/Metrimap | Yes | TODO | TODO | planned | [Project Memory - Metrimap](<../../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/Project Memory - Metrimap.md>) |
-| Vercel project | Static SPA hosting | Canvasm/Metrimap | Maybe | Monthly | 0 USD/month | free for now | [2026-07-08 - Owner Cost Inputs](<../Shared Operating Costs/Sources/2026-07-08 - Owner Cost Inputs.md>) and [Project Memory - Metrimap](<../../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/Project Memory - Metrimap.md>) |
-| Supabase | Managed DB/auth/edge | Canvasm/Metrimap | Maybe | Monthly | 0 USD/month | free for now | [2026-07-08 - Owner Cost Inputs](<../Shared Operating Costs/Sources/2026-07-08 - Owner Cost Inputs.md>) and [Project Memory - Metrimap](<../../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/Project Memory - Metrimap.md>) |
+| Hetzner CPX22 `metrimap-mcp` | Always-on Docker host for serverless-hostile workloads | Canvasm/Metrimap | Yes | Monthly | 26.49 EUR/month | active | [2026-07-08 - Owner Cost Inputs](<../Shared Operating Costs/Sources/2026-07-08 - Owner Cost Inputs.md>) and [Shared Infra (Hetzner VPS)](<7. Shared Infra (Hetzner VPS).md>) |
+| Redis / job queue | Queues, rate limits, background jobs | Canvasm/Metrimap | Yes | TODO | TODO | planned | [Project Memory - Metrimap](<Project Memory - Metrimap.md>) |
+| Worker services | Compute, RCA/drift, notifications, exports, sync, ingest | Canvasm/Metrimap | Yes | TODO | TODO | planned | [Project Memory - Metrimap](<Project Memory - Metrimap.md>) |
+| Vercel project | Static SPA hosting | Canvasm/Metrimap | Maybe | Monthly | 0 USD/month | free for now | [2026-07-08 - Owner Cost Inputs](<../Shared Operating Costs/Sources/2026-07-08 - Owner Cost Inputs.md>) and [Project Memory - Metrimap](<Project Memory - Metrimap.md>) |
+| Supabase | Managed DB/auth/edge | Canvasm/Metrimap | Maybe | Monthly | 0 USD/month | free for now | [2026-07-08 - Owner Cost Inputs](<../Shared Operating Costs/Sources/2026-07-08 - Owner Cost Inputs.md>) and [Project Memory - Metrimap](<Project Memory - Metrimap.md>) |
 | Clerk | Sign-in and user management | Canvasm/Metrimap | Maybe | Monthly | 0 USD/month | free for now | [2026-07-08 - Owner Cost Inputs](<../Shared Operating Costs/Sources/2026-07-08 - Owner Cost Inputs.md>) and [2026-07-08 - SaaS Pricing Benchmarks and Plan Sources](<../Shared Operating Costs/Sources/2026-07-08 - SaaS Pricing Benchmarks and Plan Sources.md>) |
-| Hosted PostHog | Analytics | Canvasm/Metrimap | Maybe | TODO | TODO | planned/hosted | [Shared Infra (Hetzner VPS)](<../../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/PRD/4. Product/7. Shared Infra (Hetzner VPS).md>) |
-| Resend | Notification/digest email | Canvasm/Metrimap | Maybe | Monthly | 0 USD/month | free for now | [2026-07-08 - Owner Cost Inputs](<../Shared Operating Costs/Sources/2026-07-08 - Owner Cost Inputs.md>) and [Project Memory - Metrimap](<../../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/Project Memory - Metrimap.md>) |
+| Hosted PostHog | Analytics | Canvasm/Metrimap | Maybe | TODO | TODO | planned/hosted | [Shared Infra (Hetzner VPS)](<7. Shared Infra (Hetzner VPS).md>) |
+| Resend | Notification/digest email | Canvasm/Metrimap | Maybe | Monthly | 0 USD/month | free for now | [2026-07-08 - Owner Cost Inputs](<../Shared Operating Costs/Sources/2026-07-08 - Owner Cost Inputs.md>) and [Project Memory - Metrimap](<Project Memory - Metrimap.md>) |
 
 ## Upgrade Trigger
 
-Vercel, Supabase, Clerk, and Resend stay on free plans until traction, features, or limits justify an upgrade. The current planning trigger is around 4-5 paid users, unless technical limits force an earlier move. Source: [2026-07-08 - Owner Cost Inputs](<../Shared Operating Costs/Sources/2026-07-08 - Owner Cost Inputs.md>) and [Pricing and Break Even Model](<../../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/PRD/1. Distribution/Pricing and Break Even Model.md>).
+Vercel, Supabase, Clerk, and Resend stay on free plans until traction, features, or limits justify an upgrade. The current planning trigger is around 4-5 paid users, unless technical limits force an earlier move. Source: [2026-07-08 - Owner Cost Inputs](<../Shared Operating Costs/Sources/2026-07-08 - Owner Cost Inputs.md>) and [Pricing and Break Even Model](<Pricing and Break Even Model.md>).
 
 ## Canvasm Allocation View
 

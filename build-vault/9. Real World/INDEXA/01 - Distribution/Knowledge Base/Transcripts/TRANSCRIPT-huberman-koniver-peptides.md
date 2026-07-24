@@ -1,19 +1,49 @@
 ---
 type: kb-transcript
 id: TRANSCRIPT-huberman-koniver-peptides
-title: "Huberman Lab — Dr. Craig Koniver on Peptides & Performance Medicine"
+title: Huberman Lab — Dr. Craig Koniver on Peptides & Performance Medicine
 source: youtube
 url: https://www.youtube.com/watch?v=wRsX_ZkzxvQ
-show: "Huberman Lab Podcast"
-host: "Andrew Huberman"
-guest: "Dr. Craig Koniver, MD"
+show: Huberman Lab Podcast
+host: Andrew Huberman
+guest: Dr. Craig Koniver, MD
 provenance: anecdote
 captured: 2026-06-02
-peptides: ["[[BPC-157]]", "[[Ipamorelin]]", "[[Tesamorelin]]", "[[CJC-1295]]", "[[Thymosin Alpha-1]]", "[[Pinealon]]", "[[Epithalon]]", "[[PT-141]]", "[[Melanotan II]]", "[[HCG]]", "[[Tirzepatide]]", "[[Retatrutide]]", "[[HGH]]"]
-mechanisms: ["[[GH Secretagogue]]", "[[GHRH Analog]]", "[[Ghrelin-GHRP Agonism]]", "[[GLP-1 Agonism]]", "[[Lipolysis]]", "[[Melanocortin Agonism]]", "[[Thymic Immune Modulation]]", "[[Telomerase Activation]]"]
-concepts: ["[[Secretagogue]]", "[[Peptide Stacking]]", "[[Dosing & Titration]]", "[[Research-Use-Only]]", "[[COA]]", "[[Purity]]", "[[Bioregulator]]"]
+peptides:
+  - "[[BPC-157]]"
+  - "[[Ipamorelin]]"
+  - "[[Tesamorelin]]"
+  - "[[CJC-1295]]"
+  - "[[Thymosin Alpha-1]]"
+  - "[[Pinealon]]"
+  - "[[Epithalon]]"
+  - "[[PT-141]]"
+  - "[[Melanotan II]]"
+  - "[[HCG]]"
+  - "[[Tirzepatide]]"
+  - "[[Retatrutide]]"
+  - "[[HGH]]"
+mechanisms:
+  - "[[GH Secretagogue]]"
+  - "[[GHRH Analog]]"
+  - "[[Ghrelin-GHRP Agonism]]"
+  - "[[GLP-1 Agonism]]"
+  - "[[Lipolysis]]"
+  - "[[Melanocortin Agonism]]"
+  - "[[Thymic Immune Modulation]]"
+  - "[[Telomerase Activation]]"
+concepts:
+  - "[[Secretagogue]]"
+  - "[[Peptide Stacking]]"
+  - "[[Dosing & Titration]]"
+  - "[[Research-Use-Only]]"
+  - "[[9. Real World/INDEXA/01 - Distribution/Knowledge Base/Concepts/COA]]"
+  - "[[Purity]]"
+  - "[[Bioregulator]]"
 research_use_only: true
-tags: [kb-transcript, anecdote]
+tags:
+  - kb-transcript
+  - anecdote
 ---
 
 # Huberman Lab — Dr. Craig Koniver on Peptides & Performance Medicine

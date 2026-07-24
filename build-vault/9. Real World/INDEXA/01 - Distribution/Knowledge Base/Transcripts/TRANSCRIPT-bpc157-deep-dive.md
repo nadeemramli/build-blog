@@ -1,27 +1,29 @@
 ---
 type: kb-transcript
 id: TRANSCRIPT-bpc157-deep-dive
-title: "BPC-157 Deep Dive — Mechanisms, the Thin Human Data, Forms, Dosing, Sourcing"
+title: BPC-157 Deep Dive — Mechanisms, the Thin Human Data, Forms, Dosing, Sourcing
 source: youtube
 url: https://www.youtube.com/watch?v=JNEOEFAychA
-show: "(educational study-review channel)"
-guest: "(licensed MD, peptide therapy — secondary source)"
+show: (educational study-review channel)
+guest: (licensed MD, peptide therapy — secondary source)
 context: clinical-educational
 provenance: anecdote
 evidence: educational
 captured: 2026-06-02
 peptides:
-- '[[BPC-157]]'
+  - "[[BPC-157]]"
 mechanisms:
-- '[[Angiogenesis]]'
-- '[[Cytoprotection]]'
+  - "[[Angiogenesis]]"
+  - "[[Cytoprotection]]"
 concepts:
-- '[[COA]]'
-- '[[Purity]]'
-- '[[Research-Use-Only]]'
-- '[[Dosing & Titration]]'
+  - "[[9. Real World/INDEXA/01 - Distribution/Knowledge Base/Concepts/COA]]"
+  - "[[Purity]]"
+  - "[[Research-Use-Only]]"
+  - "[[Dosing & Titration]]"
 research_use_only: true
-tags: [kb-transcript, educational]
+tags:
+  - kb-transcript
+  - educational
 ---
 
 # BPC-157 Deep Dive — Mechanisms, the Thin Human Data, Forms, Dosing, Sourcing

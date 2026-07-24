@@ -2,64 +2,74 @@
 title: Shared Operating Budget
 description: Portfolio-level budget for shared infrastructure, builder tooling, and non-project-specific operating spend.
 created: 2026-07-08
-updated: 2026-07-08
-status: active
+updated: 2026-07-21
+status: active-partially-reconciled
 scope: shared-operating-costs
 tags: [real-world, shared-ops, budget, tooling]
 ---
 
 # Shared Operating Budget
 
-This is the portfolio-level budget for recurring tools and operating costs that help multiple projects. It is separate from product-specific ledgers such as [INDEXA Capital](<../INDEXA/03 - Capital/>) and the technical [Shared Infrastructure Budget](<../Shared Infrastructure/Shared Infrastructure Budget.md>).
+This is the portfolio budget for recurring tools and infrastructure used across projects. Product-specific costs remain in the owning project ledger.
 
-Primary source for the current snapshot: [2026-07-08 - Owner Cost Inputs](<./Sources/2026-07-08 - Owner Cost Inputs.md>).
+## Current forward run-rate
 
-## Current Recurring Costs
+- Shared builder/platform subscriptions: **USD252/month** — Claude 200 + Codex 20 + Linear 12 + Supabase 20.
+- Shared infrastructure: **EUR26.49/month** — Hetzner.
+- INDEXA-specific Lovable: **USD5/month**, tracked outside shared overhead.
+- Total founder-paid software view, if Lovable is included: **USD257/month + EUR26.49/month**.
+- No MYR total is calculated until actual card FX or a deliberate planning FX rate is chosen.
 
-Known recurring spend currently confirmed by the owner:
+| Item | Amount | Billing anchor | Beneficiary/allocation | Evidence and treatment |
+| --- | ---: | --- | --- | --- |
+| Claude Max 20x | USD200/month | 7th | Shared builder workflow | Receipt-supported plan rate; July cash charge was USD41.16 after credits/account balance |
+| Codex | USD20/month | Unknown | Shared builder workflow | Owner-reported; card line and billing date pending |
+| Linear Basic | USD12/month | 7th | Portfolio project management | Receipt-supported; July cash charge was RM50.68 |
+| Supabase Pro | USD20/month | 17th | Current product platform; allocation review required | Pro activation email dated 2026-07-17; amount owner-reported, receipt/card line pending |
+| Hetzner CPX22 `metrimap-mcp` | EUR26.49/month | Unknown | Shared infrastructure | Owner-reported; invoice/date pending |
+| Vercel | USD0 | Monthly | Current app platform | Free; upgrade only when production limits or paying users justify it |
+| Clerk | USD0 | Monthly | Auth | Free; upgrade only when an evidenced requirement exists |
+| Resend | USD0 | Monthly | Email | Free; upgrade only when an evidenced requirement exists |
 
-- Shared builder tooling: 232 USD/month before Cursor.
-- Shared infrastructure: 26.49 EUR/month for Hetzner.
-- INDEXA-specific Lovable/domain spend is tracked in [INDEXA Software and Domain Budget](<../INDEXA/03 - Capital/Software and Domain Budget.md>), not treated as shared overhead unless we intentionally build a total founder-burn view.
+**Stack decision:** Cursor is excluded at RM0 by owner decision on 2026-07-21 and must not reappear in the active budget or development stack.
 
-| Item | Category | Beneficiary | Amount | Billing cycle | Status | Treatment |
-| --- | --- | --- | --- | --- | --- | --- |
-| Hetzner CPX22 `metrimap-mcp` | Shared infrastructure | Canvasm/Metrimap now, reusable later | 26.49 EUR | Monthly | Active | Keep actual ledger in [Shared Infrastructure Budget](<../Shared Infrastructure/Shared Infrastructure Budget.md>). Allocate to Canvasm only for planning. |
-| Linear | Shared operating tool | Project management across builds | 12 USD | Monthly | Active | Shared builder tooling. |
-| Claude | Shared AI development tool | Builder workflow across projects | 200 USD | Monthly | Active | Shared builder tooling, not Canvasm COGS. |
-| Codex | Shared AI development tool | Builder workflow across projects | 20 USD | Monthly | Active | Shared builder tooling, not Canvasm COGS. |
-| Cursor | Shared AI/editor tooling | Builder workflow across projects | TODO | TODO | To confirm | Track current recurring amount; historical backfill is optional. |
-| Vercel | App platform | Canvasm/Metrimap now, maybe shared later | 0 USD | Monthly | Free | Upgrade only when paid-user traction or limits justify it. |
-| Supabase | App platform | Canvasm/Metrimap now, maybe shared later | 0 USD | Monthly | Free | Upgrade only when paid-user traction or limits justify it. |
-| Clerk | Auth and user management | Canvasm/Metrimap now, maybe shared later | 0 USD | Monthly | Free | Upgrade only when production features, retained-user limits, or org limits require it. |
-| Resend | App platform | Canvasm/Metrimap now, maybe shared later | 0 USD | Monthly | Free | Upgrade only when paid-user traction or limits justify it. |
+## July 2026 cash evidence
 
-## Upgrade Triggers
+| Item | Actual July cash evidence | Forward budget treatment |
+| --- | ---: | --- |
+| Claude | USD41.16 charged 2026-07-07 | Keep USD200/month until plan change is evidenced |
+| Linear | RM50.68 charged 2026-07-07 | Keep USD12/month native plan rate |
+| Lovable | USD5 charged 2026-07-20 | INDEXA-specific; review while INDEXA is paused |
+| Supabase | Charge not located | USD20 owner-reported; obtain card line |
+| Codex | Charge not located | USD20 owner-reported; obtain card line |
+| Hetzner | Charge/invoice not located | EUR26.49 owner-reported; obtain first invoice |
 
-| Service | Current treatment | Upgrade trigger |
+Source details: [2026-07 Billing Evidence](<../../../../operating-system/6. Records/Finance/2026-07 Billing Evidence.md>).
+
+## Allocation policy
+
+| Cost type | Default treatment | Decision rule |
 | --- | --- | --- |
-| Vercel | Stay free | Revisit around 4-5 paid users, or earlier if platform limits block the product. |
-| Supabase | Stay free | Revisit around 4-5 paid users, or earlier if database/auth/storage limits block the product. |
-| Clerk | Stay free | Revisit when production auth features, retained-user limits, or org limits require it. Include Pro in the paid-stack scenario even if current usage remains free. |
-| Resend | Stay free | Revisit around 4-5 paid users, or earlier if email volume, deliverability, or sender-domain needs require it. |
-| Hetzner | Paid now | Keep while it hosts reusable workers/MCP/API workloads that serverless platforms do not handle well. |
+| Shared infrastructure | Portfolio ledger with project allocation view | Allocate by actual active use when a burdened project P&L is needed |
+| Claude and Codex | Shared builder overhead | Keep out of product gross margin; include in fully burdened founder ROI |
+| Linear | Shared operating overhead | Allocate only for a burdened view |
+| Supabase | Product/platform cost pending use review | Retain paid tier only if current usage, production reliability or paid-customer path justifies it |
+| Project-only website/domain costs | Owning project capital ledger | INDEXA Lovable/domain stay in INDEXA Capital |
 
-## Allocation Policy
+## ROI control
 
-| Cost type | Default treatment | Notes |
-| --- | --- | --- |
-| Shared infrastructure | Portfolio ledger, project allocation view | For Canvasm runway, use a conservative planning allocation for Hetzner until another project actively uses it. |
-| Claude, Codex, Cursor | Shared builder overhead | Do not include in Canvasm gross margin unless building a fully burdened profitability view. |
-| Linear | Shared operating overhead | Allocate by active project count only if we need a project-level burdened view. |
-| INDEXA website/domain costs | INDEXA Capital | Keep product-specific website/domain spend in INDEXA records. |
+Each paid tool must have:
 
-## Cursor Tracking Decision
+1. a named active workflow or product dependency;
+2. one observable output for the billing month;
+3. a keep, downgrade or cancel review before the next charge if the output is absent.
 
-Cursor history is useful only if the goal is full cashflow reconstruction, reimbursement, tax/accounting prep, or comparing the AI/tool stack ROI. For immediate Canvasm budgeting, capture the current recurring Cursor amount and start tracking it going forward; backfilling every historical month is optional.
+Claude usage pressure should be translated into high-value deliverables, not activity for its own sake. Supabase and Hetzner remain justified only by a working product/infrastructure requirement and a credible route to operational or customer value.
 
-## Next Inputs Needed
+## Next evidence
 
-- Confirm current Cursor plan amount and billing cadence.
-- Confirm whether Lovable's current INDEXA hosting charge is still 5 USD/month and whether the latest charge has already cleared.
-- Decide whether to maintain a total founder-burn view that includes shared tools plus project-specific spend.
-- Decide an FX policy: actual card statement rate per transaction, monthly average, or no conversion until reconciliation.
+- Match Codex, Supabase and Hetzner to card/bank lines and record billing anchors.
+- Decide whether Lovable remains necessary while INDEXA is paused.
+- Assign Supabase to the product(s) actually consuming the paid tier.
+- Choose an FX policy: actual card rate per transaction for closes; optionally a conservative planning rate for forecasts.
+- Add monthly output/ROI evidence before each renewal review.

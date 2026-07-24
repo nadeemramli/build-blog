@@ -43,9 +43,9 @@ tags: [agent-resource, changelog]
 - Added [2026-07-08 - Owner Cost Inputs](<../9. Real World/Shared Operating Costs/Sources/2026-07-08 - Owner Cost Inputs.md>) as the source note for owner-provided cost figures.
 - Added [INDEXA Software and Domain Budget](<../9. Real World/INDEXA/03 - Capital/Software and Domain Budget.md>) and recorded the Lovable Labs 2026-06-26 domain receipt as `EXP-20260626-001`.
 - Updated Canvasm economics and shared infrastructure budget with confirmed Hetzner, free-plan, and upgrade-trigger assumptions.
-- Added [Pricing and Break Even Model](<../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/PRD/1. Distribution/Pricing and Break Even Model.md>) to connect stack cost, MRR targets, and Malaysia SaaS pricing benchmarks.
+- Added [Pricing and Break Even Model](<Pricing and Break Even Model.md>) to connect stack cost, MRR targets, and Malaysia SaaS pricing benchmarks.
 - Added Clerk to the Canvasm stack as sign-in and user management infrastructure.
-- Added [Agent Prompts - Pricing Tier Implementation](<../5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/PRD/1. Distribution/Agent Prompts - Pricing Tier Implementation.md>) for app and marketing implementation handoff.
+- Added [Agent Prompts - Pricing Tier Implementation](<Agent Prompts - Pricing Tier Implementation.md>) for app and marketing implementation handoff.
 - Clarified that the first pricing implementation should be workspace plans with included seats, not pure per-seat-only pricing.
 
 ### Why

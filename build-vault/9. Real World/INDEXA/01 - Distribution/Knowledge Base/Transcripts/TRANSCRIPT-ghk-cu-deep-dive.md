@@ -1,31 +1,33 @@
 ---
 type: kb-transcript
 id: TRANSCRIPT-ghk-cu-deep-dive
-title: "GHK-Cu Deep Dive — Mechanisms, Benefits, Forms, Dosing"
+title: GHK-Cu Deep Dive — Mechanisms, Benefits, Forms, Dosing
 source: youtube
 url: https://www.youtube.com/watch?v=IU6oRY7im6k
-show: "(educational study-review channel)"
-guest: "(licensed MD, peptide-therapy certified — secondary source)"
+show: (educational study-review channel)
+guest: (licensed MD, peptide-therapy certified — secondary source)
 context: clinical-educational
 provenance: anecdote
 evidence: educational
 captured: 2026-06-02
 peptides:
-- '[[GHK-Cu]]'
-- '[[AHK-Cu]]'
-- '[[BPC-157]]'
-- '[[TB-500]]'
+  - "[[GHK-Cu]]"
+  - "[[AHK-Cu]]"
+  - "[[BPC-157]]"
+  - "[[TB-500]]"
 mechanisms:
-- '[[Collagen Synthesis]]'
-- '[[Angiogenesis]]'
-- '[[Cytokine Modulation]]'
+  - "[[Collagen Synthesis]]"
+  - "[[Angiogenesis]]"
+  - "[[Cytokine Modulation]]"
 concepts:
-- '[[COA]]'
-- '[[Purity]]'
-- '[[Dosing & Titration]]'
-- '[[Research-Use-Only]]'
+  - "[[9. Real World/INDEXA/01 - Distribution/Knowledge Base/Concepts/COA]]"
+  - "[[Purity]]"
+  - "[[Dosing & Titration]]"
+  - "[[Research-Use-Only]]"
 research_use_only: true
-tags: [kb-transcript, educational]
+tags:
+  - kb-transcript
+  - educational
 ---
 
 # GHK-Cu Deep Dive — Mechanisms, Benefits, Forms, Dosing

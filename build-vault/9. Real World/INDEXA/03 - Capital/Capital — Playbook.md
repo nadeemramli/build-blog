@@ -19,7 +19,7 @@ Stay cash-positive and fund growth from margin, not borrowing. Every ringgit in 
 Every payment in or out → a `#transaction` (`direction: in|out`, a `category`, an `amount`, and a `ref` to the order/PO it relates to). Sales revenue, refunds, COGS, opex, owner draws, capital in — all flow through one ledger.
 
 ### 2. Expenses
-Recurring and one-off costs → `#expense`. Known fixed costs today: Lovable (RM105/mo), Cursor, domain (indexalabs.com), business phone + top-ups, payment fees, shipping, ad spend. Recurring flag makes monthly burn easy to total.
+Recurring and one-off costs → `#expense`. Current recurring/future obligations include Lovable Pro Lite (USD5/month), the INDEXA domain, business phone/top-ups where active, payment fees, shipping and ad spend. The recurring flag makes monthly burn easy to total; the latest receipt/card evidence overrides old planning figures.
 
 ### 3. Product costing & margin
 Each SKU has a `#costing` note: `landed_cost + pack_cost` vs `sell_price`. The Base computes margin and margin %. This is the link between Operation (what stock costs) and pricing — if landed cost rises on a PO, update costing so you don't quietly sell at a loss.

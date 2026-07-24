@@ -86,4 +86,5 @@ tags:
 - `[warning]` **Folate depletion → ↑homocysteine** risk (folate-cycle modulation): check homocysteine/folate before & after; take **methylated B vitamins on OFF days only**. Also theoretical **mitochondrial overstress** (too catabolic vs mTOR; electron leak) — support with Mg glycinate/CoQ10/ALA. FDA category-2 (not compoundable); WADA-banned. — [[TRANSCRIPT-mots-c-deep-dive|MOTS-C deep dive]]
 
 - `[regulatory]` **US status changing (2026):** the "FDA category-2 / not compoundable" note above is now superseded — MOTS-c was **removed from Category 2** (Feb 2026) and is on the **FDA PCAC 503A agenda for July 23 2026** (use evaluated: *obesity & osteoporosis*). Advisory/non-binding, outcome unknown; still not FDA-approved, still WADA-banned. — [[SOURCE-fda-pcac-503a-peptide-review-2026]]
+- `[regulatory]` **Update 2026-07-15:** FDA's **briefing document recommends AGAINST** adding MOTS-c to the 503A Bulks List (inadequate characterization + insufficient human effectiveness/safety data). Agency **staff** position ahead of the July 23 vote, not the Committee's decision. — [[SOURCE-fda-pcac-503a-peptide-review-2026]]
 

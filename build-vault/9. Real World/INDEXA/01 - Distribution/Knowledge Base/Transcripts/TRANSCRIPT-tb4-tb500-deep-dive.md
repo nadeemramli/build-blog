@@ -1,30 +1,32 @@
 ---
 type: kb-transcript
 id: TRANSCRIPT-tb4-tb500-deep-dive
-title: "TB4 / TB500 Deep Dive — Tissue Repair, the TB4-vs-TB500 Distinction, and vs BPC-157"
+title: TB4 / TB500 Deep Dive — Tissue Repair, the TB4-vs-TB500 Distinction, and vs BPC-157
 source: youtube
 url: https://www.youtube.com/watch?v=vvBAsQBji0A
-show: "(educational study-review channel)"
-guest: "(licensed MD, peptide therapy — secondary source)"
+show: (educational study-review channel)
+guest: (licensed MD, peptide therapy — secondary source)
 context: clinical-educational
 provenance: anecdote
 evidence: educational
 captured: 2026-06-02
 peptides:
-- '[[TB-500]]'
-- '[[BPC-157]]'
-- '[[Thymosin Alpha-1]]'
+  - "[[TB-500]]"
+  - "[[BPC-157]]"
+  - "[[Thymosin Alpha-1]]"
 mechanisms:
-- '[[Actin Regulation]]'
-- '[[Angiogenesis]]'
-- '[[Cytokine Modulation]]'
+  - "[[Actin Regulation]]"
+  - "[[Angiogenesis]]"
+  - "[[Cytokine Modulation]]"
 concepts:
-- '[[Research-Use-Only]]'
-- '[[Dosing & Titration]]'
-- '[[COA]]'
-- '[[Purity]]'
+  - "[[Research-Use-Only]]"
+  - "[[Dosing & Titration]]"
+  - "[[9. Real World/INDEXA/01 - Distribution/Knowledge Base/Concepts/COA]]"
+  - "[[Purity]]"
 research_use_only: true
-tags: [kb-transcript, educational]
+tags:
+  - kb-transcript
+  - educational
 ---
 
 # TB4 / TB500 Deep Dive — Tissue Repair & the TB4-vs-TB500 Distinction

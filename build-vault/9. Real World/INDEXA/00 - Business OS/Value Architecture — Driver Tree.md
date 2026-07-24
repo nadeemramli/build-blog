@@ -44,7 +44,7 @@ flowchart TD
     COGS --> LAND["Landed cost / unit<br/>supplier waterfall"]
     COGS --> STOCK["Stock availability<br/>(stockout = lost sale)"]
 
-    OX --> FIX["Fixed burn<br/>Lovable RM105 · Cursor · domain · phone"]
+    OX --> FIX["Fixed burn<br/>Lovable · domain · phone"]
     OX --> VAR["Variable<br/>ad spend · shipping · payment fees"]
 
     NW --> ASSET["🏭 Productive Assets<br/>printer · brand kit · ad accounts<br/>(lower future cost / raise price)"]

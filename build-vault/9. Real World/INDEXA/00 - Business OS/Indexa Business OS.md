@@ -61,7 +61,7 @@ TikTok post (Distribution)
 
 ## Tech context (current)
 
-Storefront on Vercel + Cursor build, **Supabase** backend, **Lovable** for the admin dashboard. Channels: Instagram, Threads, X, Telegram (@indexalabs), TikTok, WhatsApp enquiry, email (nadeem@ / support@indexalabs.com). Customer-facing features: product verify, order tracking (→ WhatsApp), COA / test-report pages, membership.
+Storefront on Vercel from the existing codebase, **Supabase** backend, **Lovable** for the admin dashboard. Channels: Instagram, Threads, X, Telegram (@indexalabs), TikTok, WhatsApp enquiry, email (nadeem@ / support@indexalabs.com). Customer-facing features: product verify, order tracking (→ WhatsApp), COA / test-report pages, membership.
 
 > [!note] This vault vs. the app
 > Supabase is the transactional source of truth the *website* runs on. This vault is the **management layer** — where you and the agent plan, log decisions, reconcile, and run the business by the numbers. Records here reference app IDs (order #, txn #) so the two stay linked without duplicating the whole database.

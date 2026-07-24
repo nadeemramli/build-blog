@@ -2,6 +2,8 @@
 title: "Mission & Policies"
 type: charter
 date: 2026-06-01
+updated: 2026-07-21
+operating_status: paused-capital-constrained
 tags: [indexa, business-os, mission, policy]
 ---
 
@@ -9,6 +11,9 @@ tags: [indexa, business-os, mission, policy]
 
 > [!abstract] Read this first, every time
 > This is the **constitution** of Indexa. Before any agent or chat plans a campaign, books a cost, restocks, or pays out cash, it reasons from this document. It answers two questions: **what are we maximising** (the mission) and **what are we never allowed to do to get there** (the policies). Everything else in the vault — the [[Value Architecture — Driver Tree|Driver Tree]], the [[Agent Operating Manual]], the SOPs — exists to execute this.
+
+> [!danger] Current operating exception — 2026-07-21
+> The owner reports that INDEXA has stopped operating because business cash was used personally and the business cannot buy new stock. INDEXA is therefore **paused-capital-constrained** and below the Stage 1 survival/restock floor. Reconcile the founder receivable and restore separated business cash before restart. Do not assume the historical RM4,230 record and the owner's current estimate of at least RM5,000 are additive, and do not approve a growth injection until repayment, demand, compliance, stock economics and buffer needs are current.
 
 ---
 
@@ -127,7 +132,7 @@ Diversified agents (no single seller > ~30% of revenue), multi-channel demand, r
 When cash comes in, it's allocated **top-down** — a lower priority never gets funded before a higher one is satisfied:
 
 1. **Restock reserve** — set aside enough to refill any top-seller before it stocks out. *(Lost sales are the most expensive thing we can do.)*
-2. **Fixed burn / runway** — cover the known monthly opex (Lovable RM105/mo, Cursor, domain, phone, payment fees, base shipping) and keep ≥ 1 month ahead.
+2. **Fixed burn / runway** — cover the evidenced monthly opex (currently including Lovable Pro Lite, domain, phone where active, payment fees and base shipping) and keep ≥ 1 month ahead.
 3. **Stage allocation** — apply the current stage's split (assets / savings / owner) from §3.
 4. **Growth spend** — ads, agent recruitment, new SKUs — funded from what remains, sized so ROAS stays **≥ 2.0**.
 

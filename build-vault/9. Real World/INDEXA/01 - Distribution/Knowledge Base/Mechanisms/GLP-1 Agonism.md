@@ -13,6 +13,8 @@ peptides:
 - '[[Tirzepatide]]'
 papers: []
 sources:
+- '[[SOURCE-cagrisema-redefine-phase3-2026]]'
+- '[[SOURCE-semaglutide-evoke-alzheimers-phase3-2026]]'
 - '[[SOURCE-retatrutide-triumph1-phase3]]'
 - '[[SOURCE-survodutide-synchronize1-phase3-2026]]'
 - '[[SOURCE-glp1-breast-cancer-incidence-mcdonald-2026]]'
@@ -47,4 +49,8 @@ tags:
 - `[literature]` **Glucagon/GLP-1 dual-agonist Phase 3 (survodutide, SYNCHRONIZE-1, ADA 2026):** up to 16.6% weight loss, fat-driven (visceral −34%, liver fat −63%) — the glucagon arm adds hepatic/visceral-fat and energy-expenditure effects on top of GLP-1 appetite suppression, between single-agonist and triple-agonist tiers. — [[SOURCE-survodutide-synchronize1-phase3-2026]]
 
 - `[literature]` **Triple-agonist Phase 3 ceiling:** retatrutide (GLP-1 + GIP + glucagon) hit **up to 28.3% weight loss** in TRIUMPH-1 (2026) — above single/dual-agonist plateaus, evidence the glucagon arm adds energy expenditure on top of GLP-1 appetite suppression. — [[SOURCE-retatrutide-triumph1-phase3]]
+
+- `[literature]` **Amylin add-on tier (CagriSema, REDEFINE-1/-2, ADA 2025 / NEJM):** pairing GLP-1 (semaglutide) with an **amylin** analog (cagrilintide) reached **20.4% weight loss** (68 wk, no-diabetes) vs 14.9% for semaglutide alone — a *second-mechanism* gain via satiety/gastric emptying rather than the glucagon arm, and a distinct combo axis from survodutide/retatrutide. NDA filed; FDA decision late 2026. — [[SOURCE-cagrisema-redefine-phase3-2026]]
+
+- `[literature]` **Neuro CAUTION — Alzheimer's Phase 3 miss (EVOKE/EVOKE+, Lancet 2026):** oral semaglutide 14 mg showed **no cognitive/functional benefit** vs placebo in 3,808 early-AD patients (CDR-SB primary missed at 104 wk) despite ~30% CRP reduction — the anti-inflammatory/"brain" mechanistic signal did **not** convert to clinical benefit in symptomatic AD. Honest counterweight to the observational dementia-risk association. — [[SOURCE-semaglutide-evoke-alzheimers-phase3-2026]]
 

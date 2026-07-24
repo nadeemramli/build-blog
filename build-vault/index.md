@@ -33,9 +33,9 @@ This vault is the practical workspace for building projects, managing active pur
 
 | Project | Where to start | Notes |
 | --- | --- | --- |
-| Canvasm / Metrimap | [Project Memory - Metrimap](<./5. Idea Vault/Application/B2B/Active/Canvasm - Easy Workflow/Project Memory - Metrimap.md>) | Active product/build project. Project knowledge lives in the Canvasm folder. |
+| Canvasm / Metrimap | [Project Memory - Metrimap](<Project Memory - Metrimap.md>) | Active product/build project. Project knowledge lives in the Canvasm folder. |
 | INDEXA | [INDEXA Real World OS](<./9. Real World/INDEXA/>) | Active real-world peptide brand. Money work starts in [03 - Capital](<./9. Real World/INDEXA/03 - Capital/>). |
-| Twinagent | [Twinagent Project Hub](<./5. Idea Vault/Application/B2C/Active/Twinagent/Twinagent - Project Hub.md>) | Active B2C concept for a local-first agent work command center across Codex, Claude, VPS agents, scheduling, usage, and approvals. |
+| Twinagent | [Twinagent Project Hub](<Twinagent - Project Hub.md>) | Active B2C concept for a local-first agent work command center across Codex, Claude, VPS agents, scheduling, usage, and approvals. |
 
 Other project folders exist under `5. Idea Vault`; confirm current status before treating them as active.
 

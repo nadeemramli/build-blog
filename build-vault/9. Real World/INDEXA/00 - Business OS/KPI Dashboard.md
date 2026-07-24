@@ -2,12 +2,17 @@
 title: "KPI Dashboard"
 type: dashboard
 date: 2026-06-01
+updated: 2026-07-21
+operating_status: paused-capital-constrained
 tags: [indexa, dashboard]
 ---
 
 # 📊 Indexa KPI Dashboard
 
 Live numbers pulled from the Bases. Update the source log notes and these views refresh themselves.
+
+> [!danger] Current status — 2026-07-21
+> Operations are paused because INDEXA-attributable cash was used personally and the business cannot restock. The June snapshot below remains historical evidence, not current liquidity. The next governing metric is a verified founder receivable plus separated business cash; no repayment or new injection is booked until evidence moves.
 
 ## Reconciled snapshot — 2026-06-01
 
